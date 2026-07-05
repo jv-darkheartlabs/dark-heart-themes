@@ -10,6 +10,18 @@ One repo for **editor**, **streaming**, and **brand** themes — no separate `cu
 
 **Canonical source:** Zed JSON in `sources/zed/` → Cursor themes generated via `editors/cursor/scripts/zed_to_cursor.py`.
 
+
+## Clone note (Git LFS)
+
+Streaming assets under `assets/` are stored with **Git LFS**. After clone:
+
+```bash
+git lfs install
+git clone https://github.com/jv-darkheartlabs/dark-heart-themes.git
+cd dark-heart-themes
+git lfs pull
+```
+
 ## Quick install
 
 ```bash

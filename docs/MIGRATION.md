@@ -36,3 +36,13 @@ ls ~/.config/zed/themes/cyberpunk-* 2>/dev/null && ./editors/zed/install.sh  # o
 ```
 
 Then reinstall from this repo.
+
+## Archived repos are read-only on GitHub
+
+GitHub blocks pushes to archived repositories. To add the redirect banner to old READMEs:
+
+1. **Settings → General → uncheck "Archive this repository"** (temporarily)
+2. Prepend the snippet from `docs/ARCHIVE_README_SNIPPET.md` to each README
+3. Push, then re-archive
+
+Or leave them archived — `dark-heart-themes` is the canonical install path either way.
