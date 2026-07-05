@@ -1,0 +1,56 @@
+/**
+ * 7TV / Twitch chat — Anime Gothic · Dark Heart Labs
+ * Paste: 7TV Dashboard → Channel → Appearance → Custom CSS
+ */
+
+:root {
+  --dhl-void: #100020;
+  --dhl-panel: #200040;
+  --dhl-magenta: #a00060;
+  --dhl-crimson: #800020;
+  --dhl-gold: #f0b060;
+  --dhl-silver: #e0c0e0;
+  --dhl-text: #e8e0ec;
+}
+
+.chat-scrollable-area__082c4,
+.chat-scrollable-area,
+.chat-list--default {
+  background-color: var(--dhl-void) !important;
+}
+
+.chat-line__message { color: var(--dhl-text) !important; }
+
+.chat-line__message--highlighted {
+  background-color: rgba(128, 0, 32, 0.28) !important;
+  border-left: 3px solid var(--dhl-crimson) !important;
+}
+
+.chat-input__textarea,
+[data-a-target="chat-input"] {
+  background-color: rgba(0, 0, 32, 0.88) !important;
+  color: var(--dhl-text) !important;
+  border: 1px solid rgba(160, 0, 96, 0.45) !important;
+  border-radius: 8px;
+}
+
+.stream-chat-header,
+.chat-room__heading {
+  background: rgba(32, 0, 64, 0.92) !important;
+  color: var(--dhl-silver) !important;
+}
+
+button[data-a-target="chat-send-button"] {
+  background: var(--dhl-magenta) !important;
+  color: var(--dhl-text) !important;
+}
+
+.mention-fragment,
+.chat-line__message a {
+  color: var(--dhl-magenta) !important;
+}
+
+.mention-fragment:hover,
+.chat-line__message a:hover {
+  color: var(--dhl-gold) !important;
+}

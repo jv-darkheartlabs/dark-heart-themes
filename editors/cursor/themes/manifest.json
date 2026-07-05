@@ -1,0 +1,460 @@
+{
+  "categories": {
+    "anime-gothic": [
+      "Anime Gothic - Dark Heart Labs"
+    ],
+    "cyberpunk": [
+      "Cyberpunk - Acid Burn",
+      "Cyberpunk - Akira",
+      "Cyberpunk - Blade Runner",
+      "Cyberpunk - Breeze Dark",
+      "Cyberpunk - Breeze Glacius",
+      "Cyberpunk - Breeze Light",
+      "Cyberpunk - Cyber Noir",
+      "Cyberpunk - Cyberpunk Pandora",
+      "Cyberpunk - Ex Machina",
+      "Cyberpunk - Ghost in the Shell",
+      "Cyberpunk - Gibson",
+      "Cyberpunk - Hackers 95",
+      "Cyberpunk - Her",
+      "Cyberpunk - Lawnmower Man",
+      "Cyberpunk - LCARS",
+      "Cyberpunk - Minority Report",
+      "Cyberpunk - Oxygen Cold",
+      "Cyberpunk - Oxygen",
+      "Cyberpunk - Pandora Dark",
+      "Cyberpunk - Sweet Cyber",
+      "Cyberpunk - Swordfish Cyber",
+      "Cyberpunk - Synthwave Crimson",
+      "Cyberpunk - Synthwave Neon",
+      "Cyberpunk - TRON Legacy",
+      "Cyberpunk - TRON Phantom",
+      "Cyberpunk - TRON Security",
+      "Cyberpunk - TRON Solar",
+      "Cyberpunk - TRON Viral",
+      "Cyberpunk - WarGames",
+      "Cyberpunk - Westworld"
+    ],
+    "mtg": [
+      "Mtg - Azorius Senate",
+      "Mtg - Bant Shard",
+      "Mtg - Boros Legion",
+      "Mtg - Chrome Mox",
+      "Mtg - Dimir House",
+      "Mtg - Esper Shard",
+      "Mtg - Forest Green",
+      "Mtg - Golgari Swarm",
+      "Mtg - Grixis Shard",
+      "Mtg - Gruul Clans",
+      "Mtg - Island Blue",
+      "Mtg - Izzet League",
+      "Mtg - Jeskai Way",
+      "Mtg - Jund Shard",
+      "Mtg - Mardu Horde",
+      "Mtg - Mountain Red",
+      "Mtg - Naya Shard",
+      "Mtg - Orzhov Syndicate",
+      "Mtg - Plains White",
+      "Mtg - Rakdos Carnival",
+      "Mtg - Selesnya Conclave",
+      "Mtg - Simic Combine",
+      "Mtg - Sultai Brood",
+      "Mtg - Swamp Black",
+      "Mtg - Temur Frontier"
+    ]
+  },
+  "themes": [
+    {
+      "label": "Anime Gothic - Dark Heart Labs",
+      "uiTheme": "vs-dark",
+      "path": "./themes/anime-gothic/anime-gothic-dhl-color-theme.json",
+      "category": "anime-gothic",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/anime-gothic/anime-gothic-dhl.json"
+    },
+    {
+      "label": "Cyberpunk - Acid Burn",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-acid-burn-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-acid-burn.json"
+    },
+    {
+      "label": "Cyberpunk - Akira",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-akira-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-akira.json"
+    },
+    {
+      "label": "Cyberpunk - Blade Runner",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-blade-runner-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-blade-runner.json"
+    },
+    {
+      "label": "Cyberpunk - Breeze Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-breeze-dark-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-breeze-dark.json"
+    },
+    {
+      "label": "Cyberpunk - Breeze Glacius",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-breeze-glacius-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-breeze-glacius.json"
+    },
+    {
+      "label": "Cyberpunk - Breeze Light",
+      "uiTheme": "vs",
+      "path": "./themes/cyberpunk/cyberpunk-breeze-light-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-breeze-light.json"
+    },
+    {
+      "label": "Cyberpunk - Cyber Noir",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-cyber-noir-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-cyber-noir.json"
+    },
+    {
+      "label": "Cyberpunk - Cyberpunk Pandora",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-cyberpunk-pandora-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-cyberpunk-pandora.json"
+    },
+    {
+      "label": "Cyberpunk - Ex Machina",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-ex-machina-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-ex-machina.json"
+    },
+    {
+      "label": "Cyberpunk - Ghost in the Shell",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-ghost-in-the-shell-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-ghost-in-the-shell.json"
+    },
+    {
+      "label": "Cyberpunk - Gibson",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-gibson-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-gibson.json"
+    },
+    {
+      "label": "Cyberpunk - Hackers 95",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-hackers-95-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-hackers-95.json"
+    },
+    {
+      "label": "Cyberpunk - Her",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-her-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-her.json"
+    },
+    {
+      "label": "Cyberpunk - Lawnmower Man",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-lawnmower-man-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-lawnmower-man.json"
+    },
+    {
+      "label": "Cyberpunk - LCARS",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-lcars-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-lcars.json"
+    },
+    {
+      "label": "Cyberpunk - Minority Report",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-minority-report-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-minority-report.json"
+    },
+    {
+      "label": "Cyberpunk - Oxygen Cold",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-oxygen-cold-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-oxygen-cold.json"
+    },
+    {
+      "label": "Cyberpunk - Oxygen",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-oxygen-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-oxygen.json"
+    },
+    {
+      "label": "Cyberpunk - Pandora Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-pandora-dark-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-pandora-dark.json"
+    },
+    {
+      "label": "Cyberpunk - Sweet Cyber",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-sweet-cyber-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-sweet-cyber.json"
+    },
+    {
+      "label": "Cyberpunk - Swordfish Cyber",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-swordfish-cyber-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-swordfish-cyber.json"
+    },
+    {
+      "label": "Cyberpunk - Synthwave Crimson",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-synthwave-crimson-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-synthwave-crimson.json"
+    },
+    {
+      "label": "Cyberpunk - Synthwave Neon",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-synthwave-neon-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-synthwave-neon.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Legacy",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-legacy-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-legacy.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Phantom",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-phantom-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-phantom.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Security",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-security-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-security.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Solar",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-solar-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-solar.json"
+    },
+    {
+      "label": "Cyberpunk - TRON Viral",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-tron-viral-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-viral.json"
+    },
+    {
+      "label": "Cyberpunk - WarGames",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-wargames-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-wargames.json"
+    },
+    {
+      "label": "Cyberpunk - Westworld",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-westworld-color-theme.json",
+      "category": "cyberpunk",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-westworld.json"
+    },
+    {
+      "label": "Mtg - Azorius Senate",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-azorius-wu-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-azorius-wu.json"
+    },
+    {
+      "label": "Mtg - Bant Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-bant-gwu-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-bant-gwu.json"
+    },
+    {
+      "label": "Mtg - Boros Legion",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-boros-rw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-boros-rw.json"
+    },
+    {
+      "label": "Mtg - Chrome Mox",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-chrome-mox-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-chrome-mox.json"
+    },
+    {
+      "label": "Mtg - Dimir House",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-dimir-ub-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-dimir-ub.json"
+    },
+    {
+      "label": "Mtg - Esper Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-esper-wub-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-esper-wub.json"
+    },
+    {
+      "label": "Mtg - Forest Green",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-forest-green-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-forest-green.json"
+    },
+    {
+      "label": "Mtg - Golgari Swarm",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-golgari-bg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-golgari-bg.json"
+    },
+    {
+      "label": "Mtg - Grixis Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-grixis-ubr-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-grixis-ubr.json"
+    },
+    {
+      "label": "Mtg - Gruul Clans",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-gruul-rg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-gruul-rg.json"
+    },
+    {
+      "label": "Mtg - Island Blue",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-island-blue-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-island-blue.json"
+    },
+    {
+      "label": "Mtg - Izzet League",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-izzet-ur-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-izzet-ur.json"
+    },
+    {
+      "label": "Mtg - Jeskai Way",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-jeskai-urw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-jeskai-urw.json"
+    },
+    {
+      "label": "Mtg - Jund Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-jund-brg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-jund-brg.json"
+    },
+    {
+      "label": "Mtg - Mardu Horde",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-mardu-rwb-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-mardu-rwb.json"
+    },
+    {
+      "label": "Mtg - Mountain Red",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-mountain-red-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-mountain-red.json"
+    },
+    {
+      "label": "Mtg - Naya Shard",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-naya-rgw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-naya-rgw.json"
+    },
+    {
+      "label": "Mtg - Orzhov Syndicate",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-orzhov-wb-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-orzhov-wb.json"
+    },
+    {
+      "label": "Mtg - Plains White",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-plains-white-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-plains-white.json"
+    },
+    {
+      "label": "Mtg - Rakdos Carnival",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-rakdos-br-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-rakdos-br.json"
+    },
+    {
+      "label": "Mtg - Selesnya Conclave",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-selesnya-gw-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-selesnya-gw.json"
+    },
+    {
+      "label": "Mtg - Simic Combine",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-simic-ug-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-simic-ug.json"
+    },
+    {
+      "label": "Mtg - Sultai Brood",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-sultai-gub-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-sultai-gub.json"
+    },
+    {
+      "label": "Mtg - Swamp Black",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-swamp-black-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-swamp-black.json"
+    },
+    {
+      "label": "Mtg - Temur Frontier",
+      "uiTheme": "vs-dark",
+      "path": "./themes/mtg/mtg-temur-urg-color-theme.json",
+      "category": "mtg",
+      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/mtg/mtg-temur-urg.json"
+    }
+  ]
+}

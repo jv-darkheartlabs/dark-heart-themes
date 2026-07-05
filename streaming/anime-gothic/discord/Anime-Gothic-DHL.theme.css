@@ -1,0 +1,183 @@
+/**
+ * @name Anime Gothic · Dark Heart Labs
+ * @author Dark Heart Labs
+ * @version 1.0.0
+ * @description Readable full-art gothic theme — magenta, crimson, and gold accents from the Anime Gothic Pack.
+ * @source https://github.com/jv-darkheartlabs/dark-heart-themes
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Source+Sans+3:wght@400;600&display=swap");
+
+/* Install: copy discord/ + assets/ into Vencord/themes/Anime-Gothic-DHL/ preserving structure. */
+
+:root {
+  --dhl-void: 16 0 32;
+  --dhl-void-deep: 0 0 32;
+  --dhl-panel: 32 0 64;
+  --dhl-panel-mid: 48 0 80;
+  --dhl-panel-high: 64 0 112;
+  --dhl-magenta: 160 0 96;
+  --dhl-magenta-dim: 144 0 80;
+  --dhl-crimson: 128 0 32;
+  --dhl-gold: 240 176 96;
+  --dhl-silver: 224 192 224;
+  --dhl-text: 232 224 236;
+  --dhl-muted: 160 144 176;
+  --dhl-bg-image: url("assets/anime-gothic-pack/Background Screens/Background.png");
+
+  --background-primary: rgb(var(--dhl-void));
+  --background-secondary: rgb(var(--dhl-panel));
+  --background-secondary-alt: rgb(var(--dhl-panel-mid));
+  --background-tertiary: rgb(var(--dhl-panel-high));
+  --background-accent: rgb(var(--dhl-magenta-dim));
+  --background-floating: rgb(var(--dhl-panel) / 0.94);
+  --background-nested-floating: rgb(var(--dhl-panel-mid) / 0.92);
+  --background-mobile-primary: rgb(var(--dhl-void));
+  --background-mobile-secondary: rgb(var(--dhl-panel));
+
+  --text-normal: rgb(var(--dhl-text));
+  --text-muted: rgb(var(--dhl-muted));
+  --text-link: rgb(var(--dhl-magenta));
+  --text-positive: rgb(192 64 128);
+  --text-warning: rgb(var(--dhl-gold));
+  --text-danger: rgb(var(--dhl-crimson));
+  --text-brand: rgb(var(--dhl-magenta));
+
+  --interactive-normal: rgb(var(--dhl-muted));
+  --interactive-hover: rgb(var(--dhl-silver));
+  --interactive-active: rgb(var(--dhl-text));
+  --interactive-muted: rgb(var(--dhl-panel-high));
+
+  --header-primary: rgb(var(--dhl-text));
+  --header-secondary: rgb(var(--dhl-silver));
+
+  --brand-500: rgb(var(--dhl-magenta));
+  --brand-560: rgb(var(--dhl-magenta-dim));
+  --brand-600: rgb(var(--dhl-crimson));
+
+  --channeltextarea-background: rgb(var(--dhl-void-deep) / 0.88);
+  --scrollbar-thin-thumb: rgb(var(--dhl-magenta-dim) / 0.55);
+  --scrollbar-auto-thumb: rgb(var(--dhl-magenta) / 0.45);
+  --input-background: rgb(var(--dhl-void-deep) / 0.82);
+  --modal-background: rgb(var(--dhl-panel) / 0.96);
+  --modal-footer-background: rgb(var(--dhl-void) / 0.98);
+  --font-primary: "Source Sans 3", "gg sans", system-ui, sans-serif;
+  --font-display: "Cinzel", "Source Sans 3", serif;
+}
+
+.theme-dark {
+  --background-primary: rgb(var(--dhl-void));
+  --background-secondary: rgb(var(--dhl-panel));
+}
+
+.appMount__51fd7,
+.appMount-,
+body {
+  background: var(--dhl-bg-image) center / cover no-repeat fixed !important;
+}
+
+.sidebar__23d6,
+.sidebar-,
+.chat__5288,
+.chat-,
+.container__133bf,
+.container-,
+.members__9ca46,
+.members- {
+  background: rgb(var(--dhl-void) / 0.85) !important;
+}
+
+.messagesWrapper__36d07,
+.messagesWrapper- {
+  background: rgb(var(--dhl-void-deep) / 0.55) !important;
+}
+
+.title__73e3,
+.title-,
+.header__6b133,
+.header- {
+  font-family: var(--font-display);
+  letter-spacing: 0.04em;
+}
+
+.anchor_edefb8,
+.anchor-,
+.link__95cca,
+.link-,
+.markup__75297 a,
+.markup- a {
+  color: rgb(var(--dhl-magenta)) !important;
+}
+
+.anchor_edefb8:hover,
+.anchor-:hover,
+.link__95cca:hover,
+.link-:hover {
+  color: rgb(var(--dhl-gold)) !important;
+}
+
+.modeSelected__487d6,
+.modeSelected-,
+.selected__972a0,
+.selected- {
+  background: rgb(var(--dhl-magenta-dim) / 0.35) !important;
+  border-left: 2px solid rgb(var(--dhl-gold)) !important;
+}
+
+.lookFilled__950dd.colorBrand__27e6,
+.lookFilled-.colorBrand-,
+.button__581d0.colorBrand__27e6,
+.button-.colorBrand- {
+  background: rgb(var(--dhl-magenta)) !important;
+}
+
+.lookFilled__950dd.colorRed__27e6,
+.lookFilled-.colorRed-,
+.colorDanger__27e6,
+.colorDanger- {
+  background: rgb(var(--dhl-crimson)) !important;
+}
+
+.scrollableContainer__74017,
+.scrollableContainer-,
+.channelTextAreaInner__56a36,
+.channelTextAreaInner- {
+  background: rgb(var(--dhl-void-deep) / 0.88) !important;
+  border: 1px solid rgb(var(--dhl-magenta-dim) / 0.45) !important;
+  border-radius: 8px;
+}
+
+.root__49fc1,
+.root-,
+.menu__181a2,
+.menu- {
+  background: rgb(var(--dhl-panel) / 0.97) !important;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgb(var(--dhl-silver) / 0.18);
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--dhl-magenta-dim) / 0.55);
+  border-radius: 999px;
+  border: 2px solid rgb(var(--dhl-void));
+}
+::-webkit-scrollbar-track { background: rgb(var(--dhl-void-deep) / 0.6); }
+
+.mentioned__5126c,
+.mentioned- {
+  background: rgb(var(--dhl-crimson) / 0.22) !important;
+  border-left: 3px solid rgb(var(--dhl-crimson)) !important;
+}
+
+.numberBadge__40d6f,
+.numberBadge- {
+  background: rgb(var(--dhl-gold)) !important;
+  color: rgb(var(--dhl-void)) !important;
+}
+
+.embedFull__8d1af,
+.embedFull- {
+  background: rgb(var(--dhl-panel) / 0.82) !important;
+  border-left: 4px solid rgb(var(--dhl-magenta-dim)) !important;
+}

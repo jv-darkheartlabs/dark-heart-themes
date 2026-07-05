@@ -1,0 +1,1081 @@
+{
+  "current_scene": "Live",
+  "current_program_scene": "Live",
+  "scene_order": [
+    {
+      "name": "Live"
+    },
+    {
+      "name": "Starting Soon"
+    },
+    {
+      "name": "BRB"
+    },
+    {
+      "name": "Offline"
+    },
+    {
+      "name": "Alerts (hide until triggered)"
+    }
+  ],
+  "name": "Dark Heart Labs · Anime Gothic",
+  "sources": [
+    {
+      "id": "image_source",
+      "name": "BG · Main",
+      "uuid": "c39c5533-2e96-44a1-98a9-86ad0ed38423",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Background Screens/Background.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "BG · BRB",
+      "uuid": "d714614a-062c-4d91-9a6a-30f81a1195cc",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Background Screens/BRB.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "BG · Offline",
+      "uuid": "5acc6e8b-cbe5-413a-8bbe-71a725271937",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Background Screens/Offline.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "Frame · Chatbox",
+      "uuid": "3a210e52-c116-466a-9e7d-5e9a8320cd79",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Frames/Chatbox.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "Frame · Gameplay",
+      "uuid": "388e485b-f3b1-4392-bccc-d895e10e6ccc",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Frames/Gameplay frame.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "Frame · Webcam",
+      "uuid": "6c4dcdff-96af-4f67-a123-e93aecee3c05",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Frames/Webcam frame.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "Panel · Live Now",
+      "uuid": "cfa3a090-a56c-4fdf-9ba4-2f7d00b1efff",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Alerts Panels/Live now.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "image_source",
+      "name": "Panel · Rules",
+      "uuid": "5c5bc5b6-227c-4238-91c8-dc328b8611d3",
+      "versioned_id": "image_source",
+      "settings": {
+        "file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Alerts Panels/rules.png",
+        "unload_when_not_visible": false
+      },
+      "mixers": 0,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "ffmpeg_source",
+      "name": "Media · Starting Soon",
+      "uuid": "7ae67a13-f837-4b88-929d-7f9800738d8a",
+      "versioned_id": "ffmpeg_source",
+      "settings": {
+        "local_file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Screen Transition Alerts Background/starting soon animated.mp4",
+        "looping": true,
+        "restart_on_activate": true,
+        "close_when_inactive": false,
+        "hw_decode": true
+      },
+      "mixers": 255,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "ffmpeg_source",
+      "name": "Alert · New Subscriber",
+      "uuid": "377dc107-c1b5-4f0b-a0ef-666f9e4c73ac",
+      "versioned_id": "ffmpeg_source",
+      "settings": {
+        "local_file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Screen Transition Alerts Background/new subscriber animated.webm",
+        "looping": false,
+        "restart_on_activate": true,
+        "close_when_inactive": false,
+        "hw_decode": true
+      },
+      "mixers": 255,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "ffmpeg_source",
+      "name": "Alert · New Donation",
+      "uuid": "0fa37a35-4fef-4814-aa2a-746db8604db5",
+      "versioned_id": "ffmpeg_source",
+      "settings": {
+        "local_file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Screen Transition Alerts Background/new donation animated.webm",
+        "looping": false,
+        "restart_on_activate": true,
+        "close_when_inactive": false,
+        "hw_decode": true
+      },
+      "mixers": 255,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "ffmpeg_source",
+      "name": "Stinger · Transition",
+      "uuid": "b92b2f6e-1f8e-44b9-86f9-56033cc2ccdc",
+      "versioned_id": "ffmpeg_source",
+      "settings": {
+        "local_file": "/Users/jenthedev/Projects/dark-heart-themes/assets/anime-gothic-pack/Screen Transition Alerts Background/Transition.webm",
+        "looping": false,
+        "restart_on_activate": true,
+        "close_when_inactive": false,
+        "hw_decode": true
+      },
+      "mixers": 255,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    },
+    {
+      "id": "browser_source",
+      "name": "Chat · Twitch Popout",
+      "uuid": "567ca876-d4cf-41ca-9524-6d4fe4751b70",
+      "versioned_id": "browser_source",
+      "settings": {
+        "url": "https://www.twitch.tv/popout/darkheartlabs/chat?popout=",
+        "width": 720,
+        "height": 1020,
+        "fps": 30,
+        "shutdown": true,
+        "restart_when_active": false
+      },
+      "mixers": 255,
+      "sync": 0,
+      "flags": 0,
+      "volume": 1,
+      "balance": 0.5,
+      "enabled": true,
+      "muted": false,
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "hotkeys": {},
+      "deinterlace_mode": 0,
+      "deinterlace_field_order": 0,
+      "monitoring_type": 0,
+      "private_settings": {}
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Live",
+      "uuid": "54fedc78-b5ac-4e2d-aa8f-ac757875776d",
+      "id": "5175e98a-cee4-4f7d-93a9-aa5477b36d93",
+      "versioned_id": "scene",
+      "settings": {
+        "id_counter": 8,
+        "custom_size": false,
+        "items": [
+          {
+            "name": "BG · Main",
+            "source_uuid": "c39c5533-2e96-44a1-98a9-86ad0ed38423",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 1,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Frame · Gameplay",
+            "source_uuid": "388e485b-f3b1-4392-bccc-d895e10e6ccc",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 2,
+            "group_item_backup": false,
+            "pos": {
+              "x": 380,
+              "y": 70
+            },
+            "scale": {
+              "x": 0.58,
+              "y": 0.58
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Frame · Chatbox",
+            "source_uuid": "3a210e52-c116-466a-9e7d-5e9a8320cd79",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 3,
+            "group_item_backup": false,
+            "pos": {
+              "x": 20,
+              "y": 30
+            },
+            "scale": {
+              "x": 0.42,
+              "y": 0.42
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Chat · Twitch Popout",
+            "source_uuid": "567ca876-d4cf-41ca-9524-6d4fe4751b70",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 1,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 340,
+              "y": 880
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 4,
+            "group_item_backup": false,
+            "pos": {
+              "x": 95,
+              "y": 120
+            },
+            "scale": {
+              "x": 0.34,
+              "y": 0.34
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Frame · Webcam",
+            "source_uuid": "6c4dcdff-96af-4f67-a123-e93aecee3c05",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 5,
+            "group_item_backup": false,
+            "pos": {
+              "x": 1480,
+              "y": 720
+            },
+            "scale": {
+              "x": 0.22,
+              "y": 0.22
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Panel · Live Now",
+            "source_uuid": "cfa3a090-a56c-4fdf-9ba4-2f7d00b1efff",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 6,
+            "group_item_backup": false,
+            "pos": {
+              "x": 1320,
+              "y": 40
+            },
+            "scale": {
+              "x": 0.55,
+              "y": 0.55
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Panel · Rules",
+            "source_uuid": "5c5bc5b6-227c-4238-91c8-dc328b8611d3",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 7,
+            "group_item_backup": false,
+            "pos": {
+              "x": 380,
+              "y": 900
+            },
+            "scale": {
+              "x": 0.45,
+              "y": 0.45
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "Starting Soon",
+      "uuid": "cbd72078-0c3f-4370-a535-1a9fbac0d1ff",
+      "id": "358fe576-3e1c-4a74-b56b-5daef6d1214f",
+      "versioned_id": "scene",
+      "settings": {
+        "id_counter": 3,
+        "custom_size": false,
+        "items": [
+          {
+            "name": "BG · Main",
+            "source_uuid": "c39c5533-2e96-44a1-98a9-86ad0ed38423",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 1,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Media · Starting Soon",
+            "source_uuid": "7ae67a13-f837-4b88-929d-7f9800738d8a",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 2,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "BRB",
+      "uuid": "c4124c7f-e594-4814-aac5-5d40b43ad5a6",
+      "id": "b1facc5a-1b28-481d-a5c9-b08ebd8d4552",
+      "versioned_id": "scene",
+      "settings": {
+        "id_counter": 2,
+        "custom_size": false,
+        "items": [
+          {
+            "name": "BG · BRB",
+            "source_uuid": "d714614a-062c-4d91-9a6a-30f81a1195cc",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 1,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "Offline",
+      "uuid": "d2a6e771-9c48-4db8-bfc0-7652669a056e",
+      "id": "87f19d0a-afe9-4020-9615-d167aaec8969",
+      "versioned_id": "scene",
+      "settings": {
+        "id_counter": 2,
+        "custom_size": false,
+        "items": [
+          {
+            "name": "BG · Offline",
+            "source_uuid": "5acc6e8b-cbe5-413a-8bbe-71a725271937",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 1,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "name": "Alerts (hide until triggered)",
+      "uuid": "061a8d64-166a-4dc9-acfb-41fba7d3e86d",
+      "id": "9b8618fa-556d-464a-b053-b1a15ed3b57a",
+      "versioned_id": "scene",
+      "settings": {
+        "id_counter": 5,
+        "custom_size": false,
+        "items": [
+          {
+            "name": "BG · Main",
+            "source_uuid": "c39c5533-2e96-44a1-98a9-86ad0ed38423",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 1,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Alert · New Subscriber",
+            "source_uuid": "377dc107-c1b5-4f0b-a0ef-666f9e4c73ac",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 2,
+            "group_item_backup": false,
+            "pos": {
+              "x": 560,
+              "y": 140
+            },
+            "scale": {
+              "x": 0.85,
+              "y": 0.85
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Alert · New Donation",
+            "source_uuid": "0fa37a35-4fef-4814-aa2a-746db8604db5",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 3,
+            "group_item_backup": false,
+            "pos": {
+              "x": 560,
+              "y": 140
+            },
+            "scale": {
+              "x": 0.85,
+              "y": 0.85
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          },
+          {
+            "name": "Stinger · Transition",
+            "source_uuid": "b92b2f6e-1f8e-44b9-86f9-56033cc2ccdc",
+            "visible": true,
+            "locked": false,
+            "rot": 0,
+            "scale_ref": {
+              "x": 1920,
+              "y": 1080
+            },
+            "align": 5,
+            "bounds_type": 0,
+            "bounds_align": 0,
+            "bounds": {
+              "x": 0,
+              "y": 0
+            },
+            "crop_left": 0,
+            "crop_top": 0,
+            "crop_right": 0,
+            "crop_bottom": 0,
+            "id": 4,
+            "group_item_backup": false,
+            "pos": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "scale_filter": "disable",
+            "blend_method": "default",
+            "blend_type": "normal",
+            "show_transition": {
+              "duration": 0
+            },
+            "hide_transition": {
+              "duration": 0
+            },
+            "private_settings": {}
+          }
+        ]
+      }
+    }
+  ],
+  "groups": [],
+  "transitions": [],
+  "quick_transitions": [],
+  "saved_projectors": [],
+  "current_transition": "Fade",
+  "transition_duration": 300,
+  "resolution": {
+    "x": 1920,
+    "y": 1080
+  },
+  "fps": 30
+}

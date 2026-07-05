@@ -1,0 +1,30 @@
+{
+  "name": "Anime Gothic \u00b7 Dark Heart Labs",
+  "brand": "Dark Heart Labs",
+  "twitch": "https://twitch.tv/darkheartlabs",
+  "canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "colors": {
+    "void": "#100020",
+    "voidDeep": "#000020",
+    "voidLift": "#100030",
+    "panel": "#200040",
+    "panelMid": "#300050",
+    "panelHigh": "#400070",
+    "magenta": "#a00060",
+    "magentaDim": "#900050",
+    "crimson": "#800020",
+    "crimsonDeep": "#300010",
+    "silver": "#e0c0e0",
+    "gold": "#f0b060",
+    "textPrimary": "#e8e0ec",
+    "textMuted": "#a090b0",
+    "textLink": "#c05090",
+    "success": "#c04080",
+    "error": "#800020",
+    "overlay": "rgba(16, 0, 32, 0.85)",
+    "overlayLight": "rgba(32, 0, 64, 0.72)"
+  }
+}

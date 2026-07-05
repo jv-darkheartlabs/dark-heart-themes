@@ -1,0 +1,153 @@
+{
+  "name": "Anime Gothic - Dark Heart Labs",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#100020",
+    "editor.foreground": "#e8e0ec",
+    "editor.lineHighlightBackground": "#ffffff0a",
+    "editorLineNumber.foreground": "#a090b0",
+    "editorLineNumber.activeForeground": "#f0b060",
+    "editorGutter.background": "#100020",
+    "sideBar.background": "#200040",
+    "foreground": "#e8e0ec",
+    "descriptionForeground": "#a090b0",
+    "list.highlightForeground": "#a00060",
+    "dropdown.background": "#300050",
+    "list.hoverBackground": "#400070",
+    "panel.border": "#900050",
+    "focusBorder": "#a00060",
+    "editorGroupHeader.tabsBackground": "#100020",
+    "tab.activeBackground": "#200040",
+    "tab.inactiveBackground": "#100020",
+    "panel.background": "#200040",
+    "titleBar.activeBackground": "#100020",
+    "statusBar.background": "#100020",
+    "terminal.background": "#000020",
+    "terminal.foreground": "#e8e0ec",
+    "terminal.ansiBlack": "#100020",
+    "terminal.ansiRed": "#800020",
+    "terminal.ansiGreen": "#c04080",
+    "terminal.ansiYellow": "#f0b060",
+    "terminal.ansiBlue": "#400070",
+    "terminal.ansiMagenta": "#a00060",
+    "terminal.ansiCyan": "#e0c0e0",
+    "terminal.ansiWhite": "#e8e0ec",
+    "activityBar.background": "#200040",
+    "sideBarTitle.foreground": "#e8e0ec",
+    "editorCursor.foreground": "#e8e0ec",
+    "selection.background": "#264f78"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#a00060",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#e0c0e0"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#a090b0",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#f0b060"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#c05090"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#f0b060"
+      }
+    },
+    {
+      "scope": [
+        "constant.language.boolean"
+      ],
+      "settings": {
+        "foreground": "#900050"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#e8e0ec"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#e8e0ec"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property"
+      ],
+      "settings": {
+        "foreground": "#e0c0e0"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#800020",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#a090b0"
+      }
+    }
+  ]
+}

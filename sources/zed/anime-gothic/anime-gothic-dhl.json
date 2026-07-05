@@ -1,0 +1,86 @@
+{
+  "name": "Anime Gothic Dark Heart Labs",
+  "author": "Dark Heart Labs",
+  "themes": [
+    {
+      "name": "Anime Gothic Dark Heart Labs",
+      "appearance": "dark",
+      "style": {
+        "background": "#100020",
+        "foreground": "#e8e0ec",
+        "text": "#e8e0ec",
+        "text.accent": "#a00060",
+        "text.muted": "#a090b0",
+        "editor.background": "#100020",
+        "editor.foreground": "#e8e0ec",
+        "editor.active_line.background": "#ffffff0a",
+        "editor.line_number": "#a090b0",
+        "editor.active_line_number": "#f0b060",
+        "editor.gutter.background": "#100020",
+        "surface.background": "#200040",
+        "element.background": "#300050",
+        "element.hover": "#400070",
+        "border": "#900050",
+        "border.focused": "#a00060",
+        "tab_bar.background": "#100020",
+        "tab.active_background": "#200040",
+        "tab.inactive_background": "#100020",
+        "panel.background": "#200040",
+        "title_bar.background": "#100020",
+        "status_bar.background": "#100020",
+        "terminal.background": "#000020",
+        "terminal.foreground": "#e8e0ec",
+        "terminal.ansi.black": "#100020",
+        "terminal.ansi.red": "#800020",
+        "terminal.ansi.green": "#c04080",
+        "terminal.ansi.yellow": "#f0b060",
+        "terminal.ansi.blue": "#400070",
+        "terminal.ansi.magenta": "#a00060",
+        "terminal.ansi.cyan": "#e0c0e0",
+        "terminal.ansi.white": "#e8e0ec",
+        "syntax": {
+          "keyword": {
+            "color": "#a00060",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#e0c0e0"
+          },
+          "comment": {
+            "color": "#a090b0",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#f0b060",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#c05090"
+          },
+          "number": {
+            "color": "#f0b060"
+          },
+          "boolean": {
+            "color": "#900050"
+          },
+          "operator": {
+            "color": "#e8e0ec"
+          },
+          "variable": {
+            "color": "#e8e0ec"
+          },
+          "property": {
+            "color": "#e0c0e0"
+          },
+          "constant": {
+            "color": "#800020",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#a090b0"
+          }
+        }
+      }
+    }
+  ]
+}

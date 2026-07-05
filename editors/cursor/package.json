@@ -1,0 +1,302 @@
+{
+  "name": "dark-heart-themes-cursor",
+  "displayName": "Dark Heart Labs Themes",
+  "description": "Cyberpunk, MTG, and Anime Gothic theme collections for Cursor \u2014 from dark-heart-themes.",
+  "version": "2.0.0",
+  "publisher": "jen-the-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jv-darkheartlabs/dark-heart-themes"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anime Gothic - Dark Heart Labs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anime-gothic/anime-gothic-dhl-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Acid Burn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-acid-burn-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Akira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-akira-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Blade Runner",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-blade-runner-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Breeze Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-breeze-dark-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Breeze Glacius",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-breeze-glacius-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Breeze Light",
+        "uiTheme": "vs",
+        "path": "./themes/cyberpunk/cyberpunk-breeze-light-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Cyber Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-cyber-noir-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Cyberpunk Pandora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-cyberpunk-pandora-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Ex Machina",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-ex-machina-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Ghost in the Shell",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-ghost-in-the-shell-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Gibson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-gibson-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Hackers 95",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-hackers-95-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Her",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-her-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Lawnmower Man",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-lawnmower-man-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - LCARS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-lcars-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Minority Report",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-minority-report-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Oxygen Cold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-oxygen-cold-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Oxygen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-oxygen-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Pandora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-pandora-dark-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Sweet Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-sweet-cyber-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Swordfish Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-swordfish-cyber-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Synthwave Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-synthwave-crimson-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Synthwave Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-synthwave-neon-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Legacy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-legacy-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Phantom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-phantom-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Security",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-security-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Solar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-solar-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - TRON Viral",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-tron-viral-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - WarGames",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-wargames-color-theme.json"
+      },
+      {
+        "label": "Cyberpunk - Westworld",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk/cyberpunk-westworld-color-theme.json"
+      },
+      {
+        "label": "Mtg - Azorius Senate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-azorius-wu-color-theme.json"
+      },
+      {
+        "label": "Mtg - Bant Shard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-bant-gwu-color-theme.json"
+      },
+      {
+        "label": "Mtg - Boros Legion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-boros-rw-color-theme.json"
+      },
+      {
+        "label": "Mtg - Chrome Mox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-chrome-mox-color-theme.json"
+      },
+      {
+        "label": "Mtg - Dimir House",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-dimir-ub-color-theme.json"
+      },
+      {
+        "label": "Mtg - Esper Shard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-esper-wub-color-theme.json"
+      },
+      {
+        "label": "Mtg - Forest Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-forest-green-color-theme.json"
+      },
+      {
+        "label": "Mtg - Golgari Swarm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-golgari-bg-color-theme.json"
+      },
+      {
+        "label": "Mtg - Grixis Shard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-grixis-ubr-color-theme.json"
+      },
+      {
+        "label": "Mtg - Gruul Clans",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-gruul-rg-color-theme.json"
+      },
+      {
+        "label": "Mtg - Island Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-island-blue-color-theme.json"
+      },
+      {
+        "label": "Mtg - Izzet League",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-izzet-ur-color-theme.json"
+      },
+      {
+        "label": "Mtg - Jeskai Way",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-jeskai-urw-color-theme.json"
+      },
+      {
+        "label": "Mtg - Jund Shard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-jund-brg-color-theme.json"
+      },
+      {
+        "label": "Mtg - Mardu Horde",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-mardu-rwb-color-theme.json"
+      },
+      {
+        "label": "Mtg - Mountain Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-mountain-red-color-theme.json"
+      },
+      {
+        "label": "Mtg - Naya Shard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-naya-rgw-color-theme.json"
+      },
+      {
+        "label": "Mtg - Orzhov Syndicate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-orzhov-wb-color-theme.json"
+      },
+      {
+        "label": "Mtg - Plains White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-plains-white-color-theme.json"
+      },
+      {
+        "label": "Mtg - Rakdos Carnival",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-rakdos-br-color-theme.json"
+      },
+      {
+        "label": "Mtg - Selesnya Conclave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-selesnya-gw-color-theme.json"
+      },
+      {
+        "label": "Mtg - Simic Combine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-simic-ug-color-theme.json"
+      },
+      {
+        "label": "Mtg - Sultai Brood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-sultai-gub-color-theme.json"
+      },
+      {
+        "label": "Mtg - Swamp Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-swamp-black-color-theme.json"
+      },
+      {
+        "label": "Mtg - Temur Frontier",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtg/mtg-temur-urg-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+# Streaming pack art and profile exports — keep the git clone lean via LFS
+assets/** filter=lfs diff=lfs merge=lfs -text

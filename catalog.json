@@ -1,0 +1,40 @@
+{
+  "name": "Dark Heart Labs Themes",
+  "repository": "https://github.com/jv-darkheartlabs/dark-heart-themes",
+  "families": {
+    "cyberpunk": {
+      "label": "Cyberpunk / Cinematic",
+      "description": "30 movie-inspired dark and light themes (Blade Runner, TRON, GITS, etc.)",
+      "canonical": "sources/zed/cyberpunk",
+      "platforms": {
+        "zed": "editors/zed/install.sh",
+        "cursor": "editors/cursor/install.sh"
+      },
+      "themeCount": 30
+    },
+    "mtg": {
+      "label": "Magic: The Gathering",
+      "description": "25 color identity, guild, and shard themes",
+      "canonical": "sources/zed/mtg",
+      "platforms": {
+        "zed": "editors/zed/install.sh",
+        "cursor": "editors/cursor/install.sh"
+      },
+      "themeCount": 25
+    },
+    "anime-gothic": {
+      "label": "Anime Gothic \u00b7 Dark Heart Labs",
+      "description": "Gothic violet/magenta streaming + editor theme tied to the Anime Gothic Pack",
+      "canonical": "sources/zed/anime-gothic",
+      "palette": "shared/palettes/anime-gothic.json",
+      "platforms": {
+        "zed": "editors/zed/install.sh",
+        "cursor": "editors/cursor/install.sh",
+        "discord": "streaming/anime-gothic/scripts/install-vencord-theme.sh",
+        "twitch": "streaming/anime-gothic/twitch/",
+        "obs": "streaming/anime-gothic/obs/"
+      },
+      "themeCount": 1
+    }
+  }
+}
