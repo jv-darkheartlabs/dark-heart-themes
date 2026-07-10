@@ -1,5 +1,9 @@
 # Dark Heart Labs Themes
 
+Unified editor and streaming theme monorepo for Zed, Cursor, Discord, Twitch, and OBS.
+
+**Tech spec:** [docs/TECH_SPEC.md](docs/TECH_SPEC.md)
+
 One repo for **editor**, **streaming**, and **brand** themes — no separate `cursor-themes` or `zed-themes` repos required.
 
 | Family | Themes | Platforms |
@@ -96,3 +100,9 @@ See [docs/MIGRATION.md](docs/MIGRATION.md) — archive `cursor-themes`, `cyberpu
 ## License
 
 MIT — editor theme JSON. Anime Gothic Pack art: your licensed streaming assets.
+
+---
+
+**Maintained by:** [Dark Heart Labs](https://darkheartlabs.technology)  
+**Author:** Jennifer ([@jv-darkheartlabs](https://github.com/jv-darkheartlabs))  
+**Site:** https://darkheartlabs.technology
