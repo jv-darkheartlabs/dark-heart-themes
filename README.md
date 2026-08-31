@@ -1,6 +1,6 @@
 # Dark Heart Labs Themes
 
-Unified editor and streaming theme monorepo for Zed, Cursor, Discord, Twitch, and OBS.
+Unified editor and streaming theme monorepo for Zed, Cursor, Devin Desktop, Discord, Twitch, and OBS.
 
 **Tech spec:** [docs/TECH_SPEC.md](docs/TECH_SPEC.md)
 
@@ -8,9 +8,9 @@ One repo for **editor**, **streaming**, and **brand** themes — no separate `cu
 
 | Family | Themes | Platforms |
 |--------|--------|-----------|
-| **Cyberpunk / Cinematic** | 30 | Zed, Cursor |
-| **Magic: The Gathering** | 25 | Zed, Cursor |
-| **Anime Gothic · DHL** | 1 (+ streaming pack) | Zed, Cursor, Discord, Twitch, OBS |
+| **Cyberpunk / Cinematic** | 30 | Zed, Cursor, Devin Desktop |
+| **Magic: The Gathering** | 25 | Zed, Cursor, Devin Desktop |
+| **Anime Gothic · DHL** | 1 (+ streaming pack) | Zed, Cursor, Devin Desktop, Discord, Twitch, OBS |
 
 **Canonical source:** Zed JSON in `sources/zed/` → Cursor themes generated via `editors/cursor/scripts/zed_to_cursor.py`.
 
@@ -38,6 +38,7 @@ cd dark-heart-themes
 # Or per platform:
 ./editors/zed/install.sh              # ~/.config/zed/themes
 ./editors/cursor/install.sh             # ~/.cursor/extensions
+./editors/devin/install.sh              # ~/.devin/extensions
 ./streaming/anime-gothic/scripts/install-vencord-theme.sh
 ```
 
@@ -52,6 +53,7 @@ dark-heart-themes/
 │   └── anime-gothic/            # Dark Heart Labs gothic editor theme
 ├── editors/
 │   ├── cursor/                  # Cursor/VS Code extension (generated themes/)
+│   ├── devin/                   # Devin Desktop installer (reuses cursor extension)
 │   └── zed/                     # Zed installer
 ├── streaming/anime-gothic/      # Discord, Twitch, OBS
 ├── assets/                      # Streaming art (Anime Gothic Pack copy)
@@ -68,6 +70,13 @@ dark-heart-themes/
 ### Cursor
 1. `./editors/cursor/install.sh` (copies extension; default is **not** symlink)
 2. Reload → **Cmd+K Cmd+T** → pick a theme
+
+### Devin Desktop
+Devin Desktop is a VS Code derivative, so it loads the same extension as Cursor — only the
+extensions directory differs (`~/.devin/extensions`, legacy `~/.windsurf/extensions`).
+
+1. `./editors/devin/install.sh` (override the target with `DEVIN_EXTENSIONS_DIR`)
+2. Reload → **Cmd/Ctrl+K Cmd/Ctrl+T** → pick a theme
 
 ### Regenerate Cursor from Zed sources
 ```bash

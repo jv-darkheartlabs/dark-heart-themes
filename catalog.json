@@ -8,7 +8,8 @@
       "canonical": "sources/zed/cyberpunk",
       "platforms": {
         "zed": "editors/zed/install.sh",
-        "cursor": "editors/cursor/install.sh"
+        "cursor": "editors/cursor/install.sh",
+        "devin": "editors/devin/install.sh"
       },
       "themeCount": 30
     },
@@ -18,7 +19,8 @@
       "canonical": "sources/zed/mtg",
       "platforms": {
         "zed": "editors/zed/install.sh",
-        "cursor": "editors/cursor/install.sh"
+        "cursor": "editors/cursor/install.sh",
+        "devin": "editors/devin/install.sh"
       },
       "themeCount": 25
     },
@@ -30,6 +32,7 @@
       "platforms": {
         "zed": "editors/zed/install.sh",
         "cursor": "editors/cursor/install.sh",
+        "devin": "editors/devin/install.sh",
         "discord": "streaming/anime-gothic/scripts/install-vencord-theme.sh",
         "twitch": "streaming/anime-gothic/twitch/",
         "obs": "streaming/anime-gothic/obs/"
