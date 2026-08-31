@@ -2,7 +2,7 @@
 
 ## Overview
 
-Unified monorepo for Zed, Cursor, and streaming themes (Cyberpunk, MTG, Anime Gothic) with canonical Zed JSON sources and generated Cursor extensions.
+Unified monorepo for Zed, Cursor, Devin Desktop, and streaming themes (Cyberpunk, MTG, Anime Gothic) with canonical Zed JSON sources and generated Cursor extensions.
 
 ## Problem statement
 
@@ -18,6 +18,7 @@ Single monorepo with `sources/zed/` as canonical theme JSON, Cursor generation v
 flowchart LR
   ZedJSON["sources/zed/"] --> Generator["zed_to_cursor.py"]
   Generator --> CursorExt["editors/cursor/"]
+  CursorExt --> DevinInstall["editors/devin/install.sh"]
   ZedJSON --> ZedInstall["editors/zed/install.sh"]
   Assets["assets/ (LFS)"] --> Streaming["streaming/anime-gothic/"]
   Catalog["catalog.json"] --> Families["Theme families"]
@@ -29,6 +30,7 @@ flowchart LR
 |-----------|----------------|
 | `sources/zed/` | Canonical theme JSON per family |
 | `editors/cursor/` | Generated VS Code/Cursor extension |
+| `editors/devin/` | Devin Desktop installer for the same extension (`~/.devin/extensions`) |
 | `editors/zed/` | Zed installer |
 | `streaming/anime-gothic/` | Discord, Twitch, OBS packs |
 | `catalog.json` | Master family index |
@@ -38,7 +40,7 @@ flowchart LR
 
 | Layer | Technology |
 |-------|------------|
-| Editor themes | Zed JSON, Cursor/VS Code extension format |
+| Editor themes | Zed JSON, Cursor/VS Code extension format (also consumed by Devin Desktop) |
 | Generation | Python (`zed_to_cursor.py`) |
 | Streaming assets | Git LFS |
 | Install | Shell scripts |
@@ -56,6 +58,7 @@ flowchart LR
 | Canonical sources | `sources/zed/` |
 | Catalog | `catalog.json` |
 | Cursor extension | `editors/cursor/` |
+| Devin Desktop installer | `editors/devin/` |
 | Zed installer | `editors/zed/` |
 | Migration notes | `docs/MIGRATION.md` |
 
