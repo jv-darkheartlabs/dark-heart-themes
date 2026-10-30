@@ -1,0 +1,108 @@
+{
+  "name": "Star Trek: Picard \u2014 Modern LCARS",
+  "author": "Cyberpunk Collection",
+  "themes": [
+    {
+      "name": "Star Trek: Picard \u2014 Modern LCARS",
+      "appearance": "dark",
+      "style": {
+        "background": "#080C13",
+        "foreground": "#DEEBF6",
+        "text": "#DEEBF6",
+        "text.accent": "#8DC8F4",
+        "text.muted": "#9EAFC1",
+        "editor.background": "#080C13",
+        "editor.foreground": "#DEEBF6",
+        "editor.active_line.background": "#1C2B40",
+        "editor.line_number": "#9EAFC1",
+        "editor.active_line_number": "#8DC8F4",
+        "editor.gutter.background": "#080C13",
+        "surface.background": "#101B2A",
+        "element.background": "#1C2B40",
+        "element.hover": "#354D68",
+        "border": "#354D68",
+        "border.focused": "#8DC8F4",
+        "tab_bar.background": "#101B2A",
+        "tab.active_background": "#1C2B40",
+        "tab.inactive_background": "#080C13",
+        "panel.background": "#101B2A",
+        "title_bar.background": "#101B2A",
+        "status_bar.background": "#101B2A",
+        "terminal.background": "#080C13",
+        "terminal.foreground": "#DEEBF6",
+        "terminal.ansi.black": "#101015",
+        "terminal.ansi.red": "#F28A8D",
+        "terminal.ansi.green": "#A5D799",
+        "terminal.ansi.yellow": "#E8D18B",
+        "terminal.ansi.blue": "#8FBDEB",
+        "terminal.ansi.magenta": "#DA9AD4",
+        "terminal.ansi.cyan": "#8CD9DD",
+        "terminal.ansi.white": "#DEEBF6",
+        "syntax": {
+          "keyword": {
+            "color": "#8DC8F4",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#C3B9EC"
+          },
+          "comment": {
+            "color": "#9EAFC1",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#AAB9EE",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#AAB9EE"
+          },
+          "number": {
+            "color": "#C3B9EC"
+          },
+          "boolean": {
+            "color": "#8DC8F4"
+          },
+          "operator": {
+            "color": "#DEEBF6"
+          },
+          "variable": {
+            "color": "#DEEBF6"
+          },
+          "property": {
+            "color": "#DEEBF6"
+          },
+          "constant": {
+            "color": "#AAB9EE",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#9EAFC1"
+          },
+          "tag": {
+            "color": "#8DC8F4"
+          },
+          "attribute": {
+            "color": "#C3B9EC"
+          },
+          "constructor": {
+            "color": "#AAB9EE"
+          },
+          "embedded": {
+            "color": "#C3B9EC"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "strong": {
+            "font_weight": 700
+          },
+          "link": {
+            "color": "#8DC8F4",
+            "underline": true
+          }
+        }
+      }
+    }
+  ]
+}

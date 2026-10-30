@@ -6,90 +6,90 @@
       "name": "MTG Dimir House",
       "appearance": "dark",
       "style": {
-        "background": "#090d14",
-        "foreground": "#9db7d8",
-        "text": "#9db7d8",
-        "text.accent": "#3d5a80",
-        "text.muted": "#566578",
-        "editor.background": "#090d14",
-        "editor.foreground": "#9db7d8",
+        "background": "#0A101B",
+        "foreground": "#D3DEE9",
+        "text": "#D3DEE9",
+        "text.accent": "#6BA5E4",
+        "text.muted": "#889AAF",
+        "editor.background": "#0A101B",
+        "editor.foreground": "#D3DEE9",
         "editor.active_line.background": "#ffffff0a",
-        "editor.line_number": "#566578",
-        "editor.active_line_number": "#3d5a80",
-        "editor.gutter.background": "#090d14",
-        "surface.background": "#ffffff08",
+        "editor.line_number": "#889AAF",
+        "editor.active_line_number": "#6BA5E4",
+        "editor.gutter.background": "#0A101B",
+        "surface.background": "#121E30",
         "element.background": "#ffffff10",
         "element.hover": "#ffffff18",
-        "border": "#566578",
-        "border.focused": "#3d5a80",
-        "tab_bar.background": "#090d14",
-        "tab.active_background": "#ffffff08",
-        "tab.inactive_background": "#090d14",
-        "panel.background": "#ffffff05",
-        "title_bar.background": "#090d14",
-        "status_bar.background": "#090d14",
-        "terminal.background": "#090d14",
-        "terminal.foreground": "#9db7d8",
-        "terminal.ansi.black": "#090d14",
-        "terminal.ansi.red": "#ff5555",
-        "terminal.ansi.green": "#7aa2ff",
-        "terminal.ansi.yellow": "#3d5a80",
-        "terminal.ansi.blue": "#5c7cfa",
-        "terminal.ansi.magenta": "#9db7d8",
-        "terminal.ansi.cyan": "#3d5a80",
-        "terminal.ansi.white": "#9db7d8",
+        "border": "#121E30",
+        "border.focused": "#6BA5E4",
+        "tab_bar.background": "#0A101B",
+        "tab.active_background": "#121E30",
+        "tab.inactive_background": "#0A101B",
+        "panel.background": "#121E30",
+        "title_bar.background": "#0A101B",
+        "status_bar.background": "#121E30",
+        "terminal.background": "#0A101B",
+        "terminal.foreground": "#D3DEE9",
+        "terminal.ansi.black": "#0A101B",
+        "terminal.ansi.red": "#F0847A",
+        "terminal.ansi.green": "#A2CA8F",
+        "terminal.ansi.yellow": "#E4CE91",
+        "terminal.ansi.blue": "#85B8E6",
+        "terminal.ansi.magenta": "#C0A8CE",
+        "terminal.ansi.cyan": "#93CDD0",
+        "terminal.ansi.white": "#D3DEE9",
         "syntax": {
           "keyword": {
-            "color": "#5c7cfa",
+            "color": "#6BA5E4",
             "font_weight": 600
           },
           "string": {
-            "color": "#7aa2ff"
+            "color": "#A8B5C5"
           },
           "comment": {
-            "color": "#566578",
+            "color": "#889AAF",
             "font_style": "italic"
           },
           "function": {
-            "color": "#9db7d8",
+            "color": "#D6DFEC",
             "font_weight": 500
           },
           "type": {
-            "color": "#3d5a80"
+            "color": "#A8B5C5"
           },
           "number": {
-            "color": "#3d5a80"
+            "color": "#8DB9E4"
           },
           "boolean": {
-            "color": "#3d5a80"
+            "color": "#8DB9E4"
           },
           "operator": {
-            "color": "#9db7d8"
+            "color": "#D3DEE9"
           },
           "variable": {
-            "color": "#9db7d8"
+            "color": "#D3DEE9"
           },
           "property": {
-            "color": "#9db7d8"
+            "color": "#D3DEE9"
           },
           "constant": {
-            "color": "#5c7cfa",
+            "color": "#8DB9E4",
             "font_weight": 600
           },
           "punctuation": {
-            "color": "#566578"
+            "color": "#889AAF"
           },
           "tag": {
-            "color": "#3d5a80"
+            "color": "#6BA5E4"
           },
           "attribute": {
-            "color": "#9db7d8"
+            "color": "#A8B5C5"
           },
           "constructor": {
-            "color": "#3d5a80"
+            "color": "#D6DFEC"
           },
           "embedded": {
-            "color": "#7aa2ff"
+            "color": "#A8B5C5"
           },
           "emphasis": {
             "font_style": "italic"
@@ -98,7 +98,7 @@
             "font_weight": 700
           },
           "link": {
-            "color": "#3d5a80",
+            "color": "#6BA5E4",
             "underline": true
           }
         }

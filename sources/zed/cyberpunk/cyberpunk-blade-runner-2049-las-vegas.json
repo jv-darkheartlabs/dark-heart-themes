@@ -1,0 +1,108 @@
+{
+  "name": "Blade Runner 2049 — Las Vegas",
+  "author": "Cyberpunk Collection",
+  "themes": [
+    {
+      "name": "Blade Runner 2049 — Las Vegas",
+      "appearance": "dark",
+      "style": {
+        "background": "#1B1009",
+        "foreground": "#F5DDC0",
+        "text": "#F5DDC0",
+        "text.accent": "#F0B16B",
+        "text.muted": "#BA9C80",
+        "editor.background": "#1B1009",
+        "editor.foreground": "#F5DDC0",
+        "editor.active_line.background": "#ffffff0a",
+        "editor.line_number": "#BA9C80",
+        "editor.active_line_number": "#F0B16B",
+        "editor.gutter.background": "#1B1009",
+        "surface.background": "#28180D",
+        "element.background": "#28180D",
+        "element.hover": "#ffffff18",
+        "border": "#7C5838",
+        "border.focused": "#F0B16B",
+        "tab_bar.background": "#1B1009",
+        "tab.active_background": "#28180D",
+        "tab.inactive_background": "#1B1009",
+        "panel.background": "#28180D",
+        "title_bar.background": "#28180D",
+        "status_bar.background": "#28180D",
+        "terminal.background": "#1B1009",
+        "terminal.foreground": "#F5DDC0",
+        "terminal.ansi.black": "#1B1009",
+        "terminal.ansi.red": "#F08186",
+        "terminal.ansi.green": "#99CC99",
+        "terminal.ansi.yellow": "#E7CD87",
+        "terminal.ansi.blue": "#8DBAE8",
+        "terminal.ansi.magenta": "#D8A0DE",
+        "terminal.ansi.cyan": "#88D1DB",
+        "terminal.ansi.white": "#F5DDC0",
+        "syntax": {
+          "keyword": {
+            "color": "#F0B16B",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#E99464"
+          },
+          "comment": {
+            "color": "#BA9C80",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#F5D49A",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#F5D49A"
+          },
+          "number": {
+            "color": "#E99464"
+          },
+          "boolean": {
+            "color": "#E99464"
+          },
+          "operator": {
+            "color": "#F5DDC0"
+          },
+          "variable": {
+            "color": "#F5DDC0"
+          },
+          "property": {
+            "color": "#F5DDC0"
+          },
+          "constant": {
+            "color": "#F0B16B",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#BA9C80"
+          },
+          "tag": {
+            "color": "#F0B16B"
+          },
+          "attribute": {
+            "color": "#F5D49A"
+          },
+          "constructor": {
+            "color": "#F5D49A"
+          },
+          "embedded": {
+            "color": "#E99464"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "strong": {
+            "font_weight": 700
+          },
+          "link": {
+            "color": "#F0B16B",
+            "underline": true
+          }
+        }
+      }
+    }
+  ]
+}

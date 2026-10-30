@@ -1,95 +1,95 @@
 {
-  "name": "Cyberpunk Ghost in the Shell",
+  "name": "Ghost in the Shell (1995) — Rain City",
   "author": "Cyberpunk Collection",
   "themes": [
     {
-      "name": "Cyberpunk Ghost in the Shell",
+      "name": "Ghost in the Shell (1995) — Rain City",
       "appearance": "dark",
       "style": {
-        "background": "#0b0b0f",
-        "foreground": "#9d4edd",
-        "text": "#9d4edd",
-        "text.accent": "#c77dff",
-        "text.muted": "#666666",
-        "editor.background": "#0b0b0f",
-        "editor.foreground": "#9d4edd",
+        "background": "#091511",
+        "foreground": "#D6E6D8",
+        "text": "#D6E6D8",
+        "text.accent": "#83CBB8",
+        "text.muted": "#91ACA0",
+        "editor.background": "#091511",
+        "editor.foreground": "#D6E6D8",
         "editor.active_line.background": "#ffffff0a",
-        "editor.line_number": "#444444",
-        "editor.active_line_number": "#c77dff",
-        "editor.gutter.background": "#0b0b0f",
-        "surface.background": "#ffffff08",
-        "element.background": "#ffffff10",
+        "editor.line_number": "#91ACA0",
+        "editor.active_line_number": "#83CBB8",
+        "editor.gutter.background": "#091511",
+        "surface.background": "#10231D",
+        "element.background": "#10231D",
         "element.hover": "#ffffff18",
-        "border": "#333333",
-        "border.focused": "#c77dff",
-        "tab_bar.background": "#0b0b0f",
-        "tab.active_background": "#ffffff08",
-        "tab.inactive_background": "#0b0b0f",
-        "panel.background": "#ffffff05",
-        "title_bar.background": "#0b0b0f",
-        "status_bar.background": "#0b0b0f",
-        "terminal.background": "#0b0b0f",
-        "terminal.foreground": "#9d4edd",
-        "terminal.ansi.black": "#0b0b0f",
-        "terminal.ansi.red": "#ff5555",
-        "terminal.ansi.green": "#c77dff",
-        "terminal.ansi.yellow": "#ffff55",
-        "terminal.ansi.blue": "#5555ff",
-        "terminal.ansi.magenta": "#9d4edd",
-        "terminal.ansi.cyan": "#c77dff",
-        "terminal.ansi.white": "#9d4edd",
+        "border": "#426459",
+        "border.focused": "#83CBB8",
+        "tab_bar.background": "#091511",
+        "tab.active_background": "#10231D",
+        "tab.inactive_background": "#091511",
+        "panel.background": "#10231D",
+        "title_bar.background": "#091511",
+        "status_bar.background": "#091511",
+        "terminal.background": "#091511",
+        "terminal.foreground": "#D6E6D8",
+        "terminal.ansi.black": "#091511",
+        "terminal.ansi.red": "#F38D91",
+        "terminal.ansi.green": "#9BCD95",
+        "terminal.ansi.yellow": "#E6CD86",
+        "terminal.ansi.blue": "#86B6EC",
+        "terminal.ansi.magenta": "#D6A0DF",
+        "terminal.ansi.cyan": "#85D8D8",
+        "terminal.ansi.white": "#D6E6D8",
         "syntax": {
           "keyword": {
-            "color": "#c77dff",
+            "color": "#83CBB8",
             "font_weight": 600
           },
           "string": {
-            "color": "#88cc88"
+            "color": "#B1D69A"
           },
           "comment": {
-            "color": "#666666",
+            "color": "#91ACA0",
             "font_style": "italic"
           },
           "function": {
-            "color": "#9d4edd",
+            "color": "#E7BD7B",
             "font_weight": 500
           },
           "type": {
-            "color": "#c77dff"
+            "color": "#A1D4C5"
           },
           "number": {
-            "color": "#c77dff"
+            "color": "#E7BD7B"
           },
           "boolean": {
-            "color": "#c77dff"
+            "color": "#83CBB8"
           },
           "operator": {
-            "color": "#9d4edd"
+            "color": "#D6E6D8"
           },
           "variable": {
-            "color": "#9d4edd"
+            "color": "#D6E6D8"
           },
           "property": {
-            "color": "#9d4edd"
+            "color": "#D6E6D8"
           },
           "constant": {
-            "color": "#c77dff",
+            "color": "#83CBB8",
             "font_weight": 600
           },
           "punctuation": {
-            "color": "#999999"
+            "color": "#91ACA0"
           },
           "tag": {
-            "color": "#c77dff"
+            "color": "#83CBB8"
           },
           "attribute": {
-            "color": "#9d4edd"
+            "color": "#D6E6D8"
           },
           "constructor": {
-            "color": "#c77dff"
+            "color": "#83CBB8"
           },
           "embedded": {
-            "color": "#9d4edd"
+            "color": "#B1D69A"
           },
           "emphasis": {
             "font_style": "italic"
@@ -98,7 +98,7 @@
             "font_weight": 700
           },
           "link": {
-            "color": "#c77dff",
+            "color": "#83CBB8",
             "underline": true
           }
         }

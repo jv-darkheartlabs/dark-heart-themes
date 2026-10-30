@@ -1,40 +1,40 @@
 {
-  "name": "Cyberpunk - Ghost in the Shell",
+  "name": "Cyberpunk - Ghost in the Shell (1995) \u2014 Rain City",
   "type": "dark",
   "colors": {
-    "editor.background": "#0b0b0f",
-    "editor.foreground": "#9d4edd",
+    "editor.background": "#091511",
+    "editor.foreground": "#D6E6D8",
     "editor.lineHighlightBackground": "#ffffff0a",
-    "editorLineNumber.foreground": "#444444",
-    "editorLineNumber.activeForeground": "#c77dff",
-    "editorGutter.background": "#0b0b0f",
-    "sideBar.background": "#ffffff08",
-    "foreground": "#9d4edd",
-    "descriptionForeground": "#666666",
-    "list.highlightForeground": "#c77dff",
-    "dropdown.background": "#ffffff10",
+    "editorLineNumber.foreground": "#91ACA0",
+    "editorLineNumber.activeForeground": "#83CBB8",
+    "editorGutter.background": "#091511",
+    "sideBar.background": "#10231D",
+    "foreground": "#D6E6D8",
+    "descriptionForeground": "#91ACA0",
+    "list.highlightForeground": "#83CBB8",
+    "dropdown.background": "#10231D",
     "list.hoverBackground": "#ffffff18",
-    "panel.border": "#333333",
-    "focusBorder": "#c77dff",
-    "editorGroupHeader.tabsBackground": "#0b0b0f",
-    "tab.activeBackground": "#ffffff08",
-    "tab.inactiveBackground": "#0b0b0f",
-    "panel.background": "#ffffff05",
-    "titleBar.activeBackground": "#0b0b0f",
-    "statusBar.background": "#0b0b0f",
-    "terminal.background": "#0b0b0f",
-    "terminal.foreground": "#9d4edd",
-    "terminal.ansiBlack": "#0b0b0f",
-    "terminal.ansiRed": "#ff5555",
-    "terminal.ansiGreen": "#c77dff",
-    "terminal.ansiYellow": "#ffff55",
-    "terminal.ansiBlue": "#5555ff",
-    "terminal.ansiMagenta": "#9d4edd",
-    "terminal.ansiCyan": "#c77dff",
-    "terminal.ansiWhite": "#9d4edd",
-    "activityBar.background": "#ffffff08",
-    "sideBarTitle.foreground": "#9d4edd",
-    "editorCursor.foreground": "#9d4edd",
+    "panel.border": "#426459",
+    "focusBorder": "#83CBB8",
+    "editorGroupHeader.tabsBackground": "#091511",
+    "tab.activeBackground": "#10231D",
+    "tab.inactiveBackground": "#091511",
+    "panel.background": "#10231D",
+    "titleBar.activeBackground": "#091511",
+    "statusBar.background": "#091511",
+    "terminal.background": "#091511",
+    "terminal.foreground": "#D6E6D8",
+    "terminal.ansiBlack": "#091511",
+    "terminal.ansiRed": "#F38D91",
+    "terminal.ansiGreen": "#9BCD95",
+    "terminal.ansiYellow": "#E6CD86",
+    "terminal.ansiBlue": "#86B6EC",
+    "terminal.ansiMagenta": "#D6A0DF",
+    "terminal.ansiCyan": "#85D8D8",
+    "terminal.ansiWhite": "#D6E6D8",
+    "activityBar.background": "#10231D",
+    "sideBarTitle.foreground": "#D6E6D8",
+    "editorCursor.foreground": "#D6E6D8",
     "selection.background": "#264f78"
   },
   "tokenColors": [
@@ -45,7 +45,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#c77dff",
+        "foreground": "#83CBB8",
         "fontStyle": "bold"
       }
     },
@@ -56,7 +56,7 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#88cc88"
+        "foreground": "#B1D69A"
       }
     },
     {
@@ -65,7 +65,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#666666",
+        "foreground": "#91ACA0",
         "fontStyle": "italic"
       }
     },
@@ -76,7 +76,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#9d4edd"
+        "foreground": "#E7BD7B"
       }
     },
     {
@@ -86,7 +86,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#c77dff"
+        "foreground": "#A1D4C5"
       }
     },
     {
@@ -94,7 +94,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#c77dff"
+        "foreground": "#E7BD7B"
       }
     },
     {
@@ -102,7 +102,7 @@
         "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#c77dff"
+        "foreground": "#83CBB8"
       }
     },
     {
@@ -110,7 +110,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#9d4edd"
+        "foreground": "#D6E6D8"
       }
     },
     {
@@ -119,7 +119,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#9d4edd"
+        "foreground": "#D6E6D8"
       }
     },
     {
@@ -128,7 +128,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#9d4edd"
+        "foreground": "#D6E6D8"
       }
     },
     {
@@ -137,7 +137,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#c77dff",
+        "foreground": "#83CBB8",
         "fontStyle": "bold"
       }
     },
@@ -146,7 +146,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#999999"
+        "foreground": "#91ACA0"
       }
     },
     {
@@ -154,7 +154,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#c77dff"
+        "foreground": "#83CBB8"
       }
     },
     {
@@ -162,7 +162,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#9d4edd"
+        "foreground": "#D6E6D8"
       }
     },
     {
@@ -171,7 +171,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#c77dff"
+        "foreground": "#83CBB8"
       }
     },
     {
@@ -180,7 +180,7 @@
         "meta.embedded"
       ],
       "settings": {
-        "foreground": "#9d4edd"
+        "foreground": "#B1D69A"
       }
     },
     {
@@ -189,7 +189,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#c77dff",
+        "foreground": "#83CBB8",
         "fontStyle": "underline"
       }
     },

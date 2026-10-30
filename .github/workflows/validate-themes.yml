@@ -17,3 +17,10 @@ jobs:
         run: python3 editors/cursor/scripts/zed_to_cursor.py
       - name: Validate converted themes
         run: python3 editors/cursor/scripts/validate_themes.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Build gallery catalog and verify source fidelity
+        run: |
+          node scripts/build-gallery.mjs
+          node --test scripts/gallery.test.mjs

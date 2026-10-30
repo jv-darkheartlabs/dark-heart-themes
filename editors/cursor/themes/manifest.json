@@ -4,36 +4,38 @@
       "Anime Gothic - Dark Heart Labs"
     ],
     "cyberpunk": [
-      "Cyberpunk - Acid Burn",
-      "Cyberpunk - Akira",
-      "Cyberpunk - Blade Runner",
-      "Cyberpunk - Breeze Dark",
-      "Cyberpunk - Breeze Glacius",
-      "Cyberpunk - Breeze Light",
-      "Cyberpunk - Cyber Noir",
-      "Cyberpunk - Cyberpunk Pandora",
-      "Cyberpunk - Ex Machina",
-      "Cyberpunk - Ghost in the Shell",
-      "Cyberpunk - Gibson",
-      "Cyberpunk - Hackers 95",
-      "Cyberpunk - Her",
-      "Cyberpunk - Lawnmower Man",
-      "Cyberpunk - LCARS",
-      "Cyberpunk - Minority Report",
-      "Cyberpunk - Oxygen Cold",
-      "Cyberpunk - Oxygen",
-      "Cyberpunk - Pandora Dark",
-      "Cyberpunk - Sweet Cyber",
-      "Cyberpunk - Swordfish Cyber",
-      "Cyberpunk - Synthwave Crimson",
-      "Cyberpunk - Synthwave Neon",
-      "Cyberpunk - TRON Legacy",
-      "Cyberpunk - TRON Phantom",
-      "Cyberpunk - TRON Security",
-      "Cyberpunk - TRON Solar",
-      "Cyberpunk - TRON Viral",
-      "Cyberpunk - WarGames",
-      "Cyberpunk - Westworld"
+      "Cyberpunk - Hackers (1995) \u2014 Acid Burn",
+      "Cyberpunk - AKIRA \u2014 Neo-Tokyo",
+      "Cyberpunk - AKIRA \u2014 Kaneda",
+      "Cyberpunk - Blade Runner 2049 \u2014 Joi",
+      "Cyberpunk - Blade Runner 2049 \u2014 Las Vegas",
+      "Cyberpunk - Blade Runner (1982) \u2014 Los Angeles",
+      "Cyberpunk - Cyber Noir \u2014 Original Palette",
+      "Cyberpunk - Avatar: Pandora \u2014 Bioluminescent Forest",
+      "Cyberpunk - Ex Machina \u2014 Lockdown",
+      "Cyberpunk - Ex Machina \u2014 Ava\u2019s Laboratory",
+      "Cyberpunk - Ghost in the Shell (2017) \u2014 Neon City",
+      "Cyberpunk - Ghost in the Shell (1995) \u2014 Rain City",
+      "Cyberpunk - Hackers (1995) \u2014 The Gibson",
+      "Cyberpunk - Hackers (1995) \u2014 Hack the Planet",
+      "Cyberpunk - Her \u2014 Theodore & Samantha",
+      "Cyberpunk - The Lawnmower Man \u2014 VR",
+      "Cyberpunk - Star Trek: Picard \u2014 Modern LCARS",
+      "Cyberpunk - Star Trek: The Next Generation \u2014 Classic LCARS",
+      "Cyberpunk - Minority Report \u2014 Precrime",
+      "Cyberpunk - Avatar: Pandora \u2014 Night Bloom",
+      "Cyberpunk - Sweet Cyber \u2014 Original Palette",
+      "Cyberpunk - Swordfish \u2014 Workstation",
+      "Cyberpunk - Synthwave Crimson \u2014 Original Palette",
+      "Cyberpunk - Synthwave Neon \u2014 Original Palette",
+      "Cyberpunk - TRON: Legacy \u2014 The Grid",
+      "Cyberpunk - TRON: Legacy \u2014 End of Line Club",
+      "Cyberpunk - TRON: Legacy \u2014 Tron",
+      "Cyberpunk - TRON: Legacy \u2014 CLU",
+      "Cyberpunk - TRON: Legacy \u2014 Rinzler",
+      "Cyberpunk - WarGames \u2014 WOPR",
+      "Cyberpunk - Westworld \u2014 Host Laboratory",
+      "Cyberpunk - Westworld \u2014 Western Park"
     ],
     "mtg": [
       "Mtg - Azorius Senate",
@@ -72,210 +74,224 @@
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/anime-gothic/anime-gothic-dhl.json"
     },
     {
-      "label": "Cyberpunk - Acid Burn",
+      "label": "Cyberpunk - Hackers (1995) \u2014 Acid Burn",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-acid-burn-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-acid-burn.json"
     },
     {
-      "label": "Cyberpunk - Akira",
+      "label": "Cyberpunk - AKIRA \u2014 Neo-Tokyo",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-akira-neo-tokyo-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-akira-neo-tokyo.json"
+    },
+    {
+      "label": "Cyberpunk - AKIRA \u2014 Kaneda",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-akira-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-akira.json"
     },
     {
-      "label": "Cyberpunk - Blade Runner",
+      "label": "Cyberpunk - Blade Runner 2049 \u2014 Joi",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-blade-runner-2049-joi-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-blade-runner-2049-joi.json"
+    },
+    {
+      "label": "Cyberpunk - Blade Runner 2049 \u2014 Las Vegas",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-blade-runner-2049-las-vegas-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-blade-runner-2049-las-vegas.json"
+    },
+    {
+      "label": "Cyberpunk - Blade Runner (1982) \u2014 Los Angeles",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-blade-runner-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-blade-runner.json"
     },
     {
-      "label": "Cyberpunk - Breeze Dark",
-      "uiTheme": "vs-dark",
-      "path": "./themes/cyberpunk/cyberpunk-breeze-dark-color-theme.json",
-      "category": "cyberpunk",
-      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-breeze-dark.json"
-    },
-    {
-      "label": "Cyberpunk - Breeze Glacius",
-      "uiTheme": "vs-dark",
-      "path": "./themes/cyberpunk/cyberpunk-breeze-glacius-color-theme.json",
-      "category": "cyberpunk",
-      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-breeze-glacius.json"
-    },
-    {
-      "label": "Cyberpunk - Breeze Light",
-      "uiTheme": "vs",
-      "path": "./themes/cyberpunk/cyberpunk-breeze-light-color-theme.json",
-      "category": "cyberpunk",
-      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-breeze-light.json"
-    },
-    {
-      "label": "Cyberpunk - Cyber Noir",
+      "label": "Cyberpunk - Cyber Noir \u2014 Original Palette",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-cyber-noir-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-cyber-noir.json"
     },
     {
-      "label": "Cyberpunk - Cyberpunk Pandora",
+      "label": "Cyberpunk - Avatar: Pandora \u2014 Bioluminescent Forest",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-cyberpunk-pandora-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-cyberpunk-pandora.json"
     },
     {
-      "label": "Cyberpunk - Ex Machina",
+      "label": "Cyberpunk - Ex Machina \u2014 Lockdown",
       "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-ex-machina-lockdown-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-ex-machina-lockdown.json"
+    },
+    {
+      "label": "Cyberpunk - Ex Machina \u2014 Ava\u2019s Laboratory",
+      "uiTheme": "vs",
       "path": "./themes/cyberpunk/cyberpunk-ex-machina-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-ex-machina.json"
     },
     {
-      "label": "Cyberpunk - Ghost in the Shell",
+      "label": "Cyberpunk - Ghost in the Shell (2017) \u2014 Neon City",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-ghost-in-the-shell-2017-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-ghost-in-the-shell-2017.json"
+    },
+    {
+      "label": "Cyberpunk - Ghost in the Shell (1995) \u2014 Rain City",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-ghost-in-the-shell-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-ghost-in-the-shell.json"
     },
     {
-      "label": "Cyberpunk - Gibson",
+      "label": "Cyberpunk - Hackers (1995) \u2014 The Gibson",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-gibson-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-gibson.json"
     },
     {
-      "label": "Cyberpunk - Hackers 95",
+      "label": "Cyberpunk - Hackers (1995) \u2014 Hack the Planet",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-hackers-95-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-hackers-95.json"
     },
     {
-      "label": "Cyberpunk - Her",
+      "label": "Cyberpunk - Her \u2014 Theodore & Samantha",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-her-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-her.json"
     },
     {
-      "label": "Cyberpunk - Lawnmower Man",
+      "label": "Cyberpunk - The Lawnmower Man \u2014 VR",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-lawnmower-man-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-lawnmower-man.json"
     },
     {
-      "label": "Cyberpunk - LCARS",
+      "label": "Cyberpunk - Star Trek: Picard \u2014 Modern LCARS",
+      "uiTheme": "vs-dark",
+      "path": "./themes/cyberpunk/cyberpunk-lcars-picard-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-lcars-picard.json"
+    },
+    {
+      "label": "Cyberpunk - Star Trek: The Next Generation \u2014 Classic LCARS",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-lcars-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-lcars.json"
     },
     {
-      "label": "Cyberpunk - Minority Report",
+      "label": "Cyberpunk - Minority Report \u2014 Precrime",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-minority-report-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-minority-report.json"
     },
     {
-      "label": "Cyberpunk - Oxygen Cold",
-      "uiTheme": "vs-dark",
-      "path": "./themes/cyberpunk/cyberpunk-oxygen-cold-color-theme.json",
-      "category": "cyberpunk",
-      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-oxygen-cold.json"
-    },
-    {
-      "label": "Cyberpunk - Oxygen",
-      "uiTheme": "vs-dark",
-      "path": "./themes/cyberpunk/cyberpunk-oxygen-color-theme.json",
-      "category": "cyberpunk",
-      "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-oxygen.json"
-    },
-    {
-      "label": "Cyberpunk - Pandora Dark",
+      "label": "Cyberpunk - Avatar: Pandora \u2014 Night Bloom",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-pandora-dark-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-pandora-dark.json"
     },
     {
-      "label": "Cyberpunk - Sweet Cyber",
+      "label": "Cyberpunk - Sweet Cyber \u2014 Original Palette",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-sweet-cyber-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-sweet-cyber.json"
     },
     {
-      "label": "Cyberpunk - Swordfish Cyber",
+      "label": "Cyberpunk - Swordfish \u2014 Workstation",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-swordfish-cyber-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-swordfish-cyber.json"
     },
     {
-      "label": "Cyberpunk - Synthwave Crimson",
+      "label": "Cyberpunk - Synthwave Crimson \u2014 Original Palette",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-synthwave-crimson-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-synthwave-crimson.json"
     },
     {
-      "label": "Cyberpunk - Synthwave Neon",
+      "label": "Cyberpunk - Synthwave Neon \u2014 Original Palette",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-synthwave-neon-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-synthwave-neon.json"
     },
     {
-      "label": "Cyberpunk - TRON Legacy",
+      "label": "Cyberpunk - TRON: Legacy \u2014 The Grid",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-tron-legacy-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-legacy.json"
     },
     {
-      "label": "Cyberpunk - TRON Phantom",
+      "label": "Cyberpunk - TRON: Legacy \u2014 End of Line Club",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-tron-phantom-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-phantom.json"
     },
     {
-      "label": "Cyberpunk - TRON Security",
+      "label": "Cyberpunk - TRON: Legacy \u2014 Tron",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-tron-security-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-security.json"
     },
     {
-      "label": "Cyberpunk - TRON Solar",
+      "label": "Cyberpunk - TRON: Legacy \u2014 CLU",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-tron-solar-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-solar.json"
     },
     {
-      "label": "Cyberpunk - TRON Viral",
+      "label": "Cyberpunk - TRON: Legacy \u2014 Rinzler",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-tron-viral-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-tron-viral.json"
     },
     {
-      "label": "Cyberpunk - WarGames",
+      "label": "Cyberpunk - WarGames \u2014 WOPR",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-wargames-color-theme.json",
       "category": "cyberpunk",
       "source": "/Users/jenthedev/Projects/dark-heart-themes/sources/zed/cyberpunk/cyberpunk-wargames.json"
     },
     {
-      "label": "Cyberpunk - Westworld",
+      "label": "Cyberpunk - Westworld \u2014 Host Laboratory",
+      "uiTheme": "vs",
+      "path": "./themes/cyberpunk/cyberpunk-westworld-host-laboratory-color-theme.json",
+      "category": "cyberpunk",
+      "source": "sources/zed/cyberpunk/cyberpunk-westworld-host-laboratory.json"
+    },
+    {
+      "label": "Cyberpunk - Westworld \u2014 Western Park",
       "uiTheme": "vs-dark",
       "path": "./themes/cyberpunk/cyberpunk-westworld-color-theme.json",
       "category": "cyberpunk",

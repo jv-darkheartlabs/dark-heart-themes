@@ -1,95 +1,95 @@
 {
-  "name": "Cyberpunk Blade Runner",
+  "name": "Blade Runner (1982) — Los Angeles",
   "author": "Cyberpunk Collection",
   "themes": [
     {
-      "name": "Cyberpunk Blade Runner",
+      "name": "Blade Runner (1982) — Los Angeles",
       "appearance": "dark",
       "style": {
-        "background": "#1a1a2e",
-        "foreground": "#e94560",
-        "text": "#e94560",
-        "text.accent": "#f39c12",
-        "text.muted": "#666666",
-        "editor.background": "#1a1a2e",
-        "editor.foreground": "#e94560",
+        "background": "#08141B",
+        "foreground": "#DBE8EC",
+        "text": "#DBE8EC",
+        "text.accent": "#72C9DB",
+        "text.muted": "#8DADB9",
+        "editor.background": "#08141B",
+        "editor.foreground": "#DBE8EC",
         "editor.active_line.background": "#ffffff0a",
-        "editor.line_number": "#444444",
-        "editor.active_line_number": "#f39c12",
-        "editor.gutter.background": "#1a1a2e",
-        "surface.background": "#ffffff08",
-        "element.background": "#ffffff10",
+        "editor.line_number": "#8DADB9",
+        "editor.active_line_number": "#72C9DB",
+        "editor.gutter.background": "#08141B",
+        "surface.background": "#0D2029",
+        "element.background": "#0D2029",
         "element.hover": "#ffffff18",
-        "border": "#333333",
-        "border.focused": "#f39c12",
-        "tab_bar.background": "#1a1a2e",
-        "tab.active_background": "#ffffff08",
-        "tab.inactive_background": "#1a1a2e",
-        "panel.background": "#ffffff05",
-        "title_bar.background": "#1a1a2e",
-        "status_bar.background": "#1a1a2e",
-        "terminal.background": "#1a1a2e",
-        "terminal.foreground": "#e94560",
-        "terminal.ansi.black": "#1a1a2e",
-        "terminal.ansi.red": "#ff5555",
-        "terminal.ansi.green": "#f39c12",
-        "terminal.ansi.yellow": "#ffff55",
-        "terminal.ansi.blue": "#5555ff",
-        "terminal.ansi.magenta": "#e94560",
-        "terminal.ansi.cyan": "#f39c12",
-        "terminal.ansi.white": "#e94560",
+        "border": "#47616D",
+        "border.focused": "#72C9DB",
+        "tab_bar.background": "#08141B",
+        "tab.active_background": "#0D2029",
+        "tab.inactive_background": "#08141B",
+        "panel.background": "#0D2029",
+        "title_bar.background": "#0D2029",
+        "status_bar.background": "#0D2029",
+        "terminal.background": "#08141B",
+        "terminal.foreground": "#DBE8EC",
+        "terminal.ansi.black": "#08141B",
+        "terminal.ansi.red": "#F08186",
+        "terminal.ansi.green": "#99CC99",
+        "terminal.ansi.yellow": "#E7CD87",
+        "terminal.ansi.blue": "#8DBAE8",
+        "terminal.ansi.magenta": "#D8A0DE",
+        "terminal.ansi.cyan": "#88D1DB",
+        "terminal.ansi.white": "#DBE8EC",
         "syntax": {
           "keyword": {
-            "color": "#f39c12",
+            "color": "#72C9DB",
             "font_weight": 600
           },
           "string": {
-            "color": "#88cc88"
+            "color": "#E8BA79"
           },
           "comment": {
-            "color": "#666666",
+            "color": "#8DADB9",
             "font_style": "italic"
           },
           "function": {
-            "color": "#e94560",
+            "color": "#D99AAF",
             "font_weight": 500
           },
           "type": {
-            "color": "#f39c12"
+            "color": "#D99AAF"
           },
           "number": {
-            "color": "#f39c12"
+            "color": "#E8BA79"
           },
           "boolean": {
-            "color": "#f39c12"
+            "color": "#E8BA79"
           },
           "operator": {
-            "color": "#e94560"
+            "color": "#DBE8EC"
           },
           "variable": {
-            "color": "#e94560"
+            "color": "#DBE8EC"
           },
           "property": {
-            "color": "#e94560"
+            "color": "#DBE8EC"
           },
           "constant": {
-            "color": "#f39c12",
+            "color": "#72C9DB",
             "font_weight": 600
           },
           "punctuation": {
-            "color": "#999999"
+            "color": "#8DADB9"
           },
           "tag": {
-            "color": "#f39c12"
+            "color": "#72C9DB"
           },
           "attribute": {
-            "color": "#e94560"
+            "color": "#D99AAF"
           },
           "constructor": {
-            "color": "#f39c12"
+            "color": "#D99AAF"
           },
           "embedded": {
-            "color": "#e94560"
+            "color": "#E8BA79"
           },
           "emphasis": {
             "font_style": "italic"
@@ -98,7 +98,7 @@
             "font_weight": 700
           },
           "link": {
-            "color": "#f39c12",
+            "color": "#72C9DB",
             "underline": true
           }
         }

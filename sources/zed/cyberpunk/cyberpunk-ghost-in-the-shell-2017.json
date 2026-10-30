@@ -1,0 +1,108 @@
+{
+  "name": "Ghost in the Shell (2017) — Neon City",
+  "author": "Cyberpunk Collection",
+  "themes": [
+    {
+      "name": "Ghost in the Shell (2017) — Neon City",
+      "appearance": "dark",
+      "style": {
+        "background": "#100D1C",
+        "foreground": "#E6DEEF",
+        "text": "#E6DEEF",
+        "text.accent": "#7CDDEC",
+        "text.muted": "#A79CB8",
+        "editor.background": "#100D1C",
+        "editor.foreground": "#E6DEEF",
+        "editor.active_line.background": "#ffffff0a",
+        "editor.line_number": "#A79CB8",
+        "editor.active_line_number": "#7CDDEC",
+        "editor.gutter.background": "#100D1C",
+        "surface.background": "#1B162B",
+        "element.background": "#1B162B",
+        "element.hover": "#ffffff18",
+        "border": "#5C4B78",
+        "border.focused": "#7CDDEC",
+        "tab_bar.background": "#100D1C",
+        "tab.active_background": "#1B162B",
+        "tab.inactive_background": "#100D1C",
+        "panel.background": "#1B162B",
+        "title_bar.background": "#100D1C",
+        "status_bar.background": "#100D1C",
+        "terminal.background": "#100D1C",
+        "terminal.foreground": "#E6DEEF",
+        "terminal.ansi.black": "#100D1C",
+        "terminal.ansi.red": "#F38D91",
+        "terminal.ansi.green": "#9BCD95",
+        "terminal.ansi.yellow": "#E6CD86",
+        "terminal.ansi.blue": "#86B6EC",
+        "terminal.ansi.magenta": "#D6A0DF",
+        "terminal.ansi.cyan": "#85D8D8",
+        "terminal.ansi.white": "#E6DEEF",
+        "syntax": {
+          "keyword": {
+            "color": "#7CDDEC",
+            "font_weight": 600
+          },
+          "string": {
+            "color": "#F1A0CD"
+          },
+          "comment": {
+            "color": "#A79CB8",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#C4A6F5",
+            "font_weight": 500
+          },
+          "type": {
+            "color": "#B2DFF2"
+          },
+          "number": {
+            "color": "#EFA8DE"
+          },
+          "boolean": {
+            "color": "#7CDDEC"
+          },
+          "operator": {
+            "color": "#E6DEEF"
+          },
+          "variable": {
+            "color": "#E6DEEF"
+          },
+          "property": {
+            "color": "#E6DEEF"
+          },
+          "constant": {
+            "color": "#7CDDEC",
+            "font_weight": 600
+          },
+          "punctuation": {
+            "color": "#A79CB8"
+          },
+          "tag": {
+            "color": "#7CDDEC"
+          },
+          "attribute": {
+            "color": "#E6DEEF"
+          },
+          "constructor": {
+            "color": "#7CDDEC"
+          },
+          "embedded": {
+            "color": "#F1A0CD"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "strong": {
+            "font_weight": 700
+          },
+          "link": {
+            "color": "#7CDDEC",
+            "underline": true
+          }
+        }
+      }
+    }
+  ]
+}

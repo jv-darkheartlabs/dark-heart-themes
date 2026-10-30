@@ -2,39 +2,39 @@
   "name": "Mtg - Izzet League",
   "type": "dark",
   "colors": {
-    "editor.background": "#120d10",
-    "editor.foreground": "#ffd6a5",
+    "editor.background": "#101A2A",
+    "editor.foreground": "#E5E4EB",
     "editor.lineHighlightBackground": "#ffffff0a",
-    "editorLineNumber.foreground": "#7a5a52",
-    "editorLineNumber.activeForeground": "#ff6f59",
-    "editorGutter.background": "#120d10",
-    "sideBar.background": "#ffffff08",
-    "foreground": "#ffd6a5",
-    "descriptionForeground": "#7a5a52",
-    "list.highlightForeground": "#ff6f59",
+    "editorLineNumber.foreground": "#99A7BB",
+    "editorLineNumber.activeForeground": "#6EB8F4",
+    "editorGutter.background": "#101A2A",
+    "sideBar.background": "#1A2940",
+    "foreground": "#E5E4EB",
+    "descriptionForeground": "#99A7BB",
+    "list.highlightForeground": "#6EB8F4",
     "dropdown.background": "#ffffff10",
     "list.hoverBackground": "#ffffff18",
-    "panel.border": "#7a5a52",
-    "focusBorder": "#ff6f59",
-    "editorGroupHeader.tabsBackground": "#120d10",
-    "tab.activeBackground": "#ffffff08",
-    "tab.inactiveBackground": "#120d10",
-    "panel.background": "#ffffff05",
-    "titleBar.activeBackground": "#120d10",
-    "statusBar.background": "#120d10",
-    "terminal.background": "#120d10",
-    "terminal.foreground": "#ffd6a5",
-    "terminal.ansiBlack": "#120d10",
-    "terminal.ansiRed": "#ff5555",
-    "terminal.ansiGreen": "#ff9f1c",
-    "terminal.ansiYellow": "#ff6f59",
-    "terminal.ansiBlue": "#ff595e",
-    "terminal.ansiMagenta": "#ffd6a5",
-    "terminal.ansiCyan": "#ff6f59",
-    "terminal.ansiWhite": "#ffd6a5",
-    "activityBar.background": "#ffffff08",
-    "sideBarTitle.foreground": "#ffd6a5",
-    "editorCursor.foreground": "#ffd6a5",
+    "panel.border": "#1A2940",
+    "focusBorder": "#6EB8F4",
+    "editorGroupHeader.tabsBackground": "#101A2A",
+    "tab.activeBackground": "#1A2940",
+    "tab.inactiveBackground": "#101A2A",
+    "panel.background": "#1A2940",
+    "titleBar.activeBackground": "#101A2A",
+    "statusBar.background": "#1A2940",
+    "terminal.background": "#101A2A",
+    "terminal.foreground": "#E5E4EB",
+    "terminal.ansiBlack": "#101A2A",
+    "terminal.ansiRed": "#F0847A",
+    "terminal.ansiGreen": "#A2CA8F",
+    "terminal.ansiYellow": "#E4CE91",
+    "terminal.ansiBlue": "#85B8E6",
+    "terminal.ansiMagenta": "#C0A8CE",
+    "terminal.ansiCyan": "#93CDD0",
+    "terminal.ansiWhite": "#E5E4EB",
+    "activityBar.background": "#1A2940",
+    "sideBarTitle.foreground": "#E5E4EB",
+    "editorCursor.foreground": "#E5E4EB",
     "selection.background": "#264f78"
   },
   "tokenColors": [
@@ -45,7 +45,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#ff595e",
+        "foreground": "#6EB8F4",
         "fontStyle": "bold"
       }
     },
@@ -56,7 +56,7 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#ff9f1c"
+        "foreground": "#EE8A89"
       }
     },
     {
@@ -65,7 +65,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#7a5a52",
+        "foreground": "#99A7BB",
         "fontStyle": "italic"
       }
     },
@@ -76,7 +76,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#ffd6a5"
+        "foreground": "#B7DFFD"
       }
     },
     {
@@ -86,7 +86,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#ff6f59"
+        "foreground": "#EE8A89"
       }
     },
     {
@@ -94,7 +94,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#ff6f59"
+        "foreground": "#F5A5A1"
       }
     },
     {
@@ -102,7 +102,7 @@
         "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#ff6f59"
+        "foreground": "#F5A5A1"
       }
     },
     {
@@ -110,7 +110,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#ffd6a5"
+        "foreground": "#E5E4EB"
       }
     },
     {
@@ -119,7 +119,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#ffd6a5"
+        "foreground": "#E5E4EB"
       }
     },
     {
@@ -128,7 +128,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#ffd6a5"
+        "foreground": "#E5E4EB"
       }
     },
     {
@@ -137,7 +137,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#ff595e",
+        "foreground": "#F5A5A1",
         "fontStyle": "bold"
       }
     },
@@ -146,7 +146,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#7a5a52"
+        "foreground": "#99A7BB"
       }
     },
     {
@@ -154,7 +154,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#ff6f59"
+        "foreground": "#6EB8F4"
       }
     },
     {
@@ -162,7 +162,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#ffd6a5"
+        "foreground": "#EE8A89"
       }
     },
     {
@@ -171,7 +171,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#ff6f59"
+        "foreground": "#B7DFFD"
       }
     },
     {
@@ -180,7 +180,7 @@
         "meta.embedded"
       ],
       "settings": {
-        "foreground": "#ff9f1c"
+        "foreground": "#EE8A89"
       }
     },
     {
@@ -189,7 +189,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#ff6f59",
+        "foreground": "#6EB8F4",
         "fontStyle": "underline"
       }
     },

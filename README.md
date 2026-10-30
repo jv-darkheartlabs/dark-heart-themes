@@ -8,12 +8,26 @@ One repo for **editor**, **streaming**, and **brand** themes — no separate `cu
 
 | Family | Themes | Platforms |
 |--------|--------|-----------|
-| **Cyberpunk / Cinematic** | 30 | Zed, Cursor |
+| **Cyberpunk / Cinematic** | 32 | Zed, Cursor |
 | **Magic: The Gathering** | 25 | Zed, Cursor |
 | **Anime Gothic · DHL** | 1 (+ streaming pack) | Zed, Cursor, Discord, Twitch, OBS |
 
 **Canonical source:** Zed JSON in `sources/zed/` → Cursor themes generated via `editors/cursor/scripts/zed_to_cursor.py`.
 
+
+## Browser theme gallery
+
+[Open the live theme gallery](https://jv-darkheartlabs.github.io/dark-heart-themes/).
+
+Preview all 58 canonical themes without installing an editor extension or streaming pack. The gallery includes family and appearance filters, name search, a sample-code preview, source-color swatches and the original Zed JSON download. Only the preview uses the selected theme; navigation and controls keep their own readable colors. Browser rendering is an approximation of an editor theme.
+
+```bash
+node scripts/build-gallery.mjs
+node --test scripts/gallery.test.mjs
+python3 -m http.server 8893 --bind 127.0.0.1 --directory gallery
+```
+
+Open `http://127.0.0.1:8893/`. The generated `gallery/themes.json` is derived from `catalog.json` and `sources/zed/`; edit the canonical theme files rather than the generated catalog. No installer, external service, account or private data is needed for the gallery.
 
 ## Clone note (Git LFS)
 
@@ -47,7 +61,7 @@ cd dark-heart-themes
 dark-heart-themes/
 ├── catalog.json                 # Master family index
 ├── sources/zed/                 # Canonical theme JSON (edit here)
-│   ├── cyberpunk/               # 30 cinematic themes
+│   ├── cyberpunk/               # 32 cinematic themes
 │   ├── mtg/                     # 25 MTG themes
 │   └── anime-gothic/            # Dark Heart Labs gothic editor theme
 ├── editors/

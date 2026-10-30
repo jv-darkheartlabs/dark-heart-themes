@@ -1,3 +1,6 @@
 .DS_Store
 *.log
 .obs/
+
+# Generated from canonical sources; rebuilt for the gallery.
+gallery/themes.json

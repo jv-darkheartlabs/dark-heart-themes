@@ -4,13 +4,13 @@
   "families": {
     "cyberpunk": {
       "label": "Cyberpunk / Cinematic",
-      "description": "30 movie-inspired dark and light themes (Blade Runner, TRON, GITS, etc.)",
+      "description": "32 cinematic and original aesthetic themes",
       "canonical": "sources/zed/cyberpunk",
       "platforms": {
         "zed": "editors/zed/install.sh",
         "cursor": "editors/cursor/install.sh"
       },
-      "themeCount": 30
+      "themeCount": 32
     },
     "mtg": {
       "label": "Magic: The Gathering",

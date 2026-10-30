@@ -2,39 +2,39 @@
   "name": "Mtg - Sultai Brood",
   "type": "dark",
   "colors": {
-    "editor.background": "#08100e",
-    "editor.foreground": "#b7e4c7",
+    "editor.background": "#0D191B",
+    "editor.foreground": "#DCE5DF",
     "editor.lineHighlightBackground": "#ffffff0a",
-    "editorLineNumber.foreground": "#53655c",
-    "editorLineNumber.activeForeground": "#40916c",
-    "editorGutter.background": "#08100e",
-    "sideBar.background": "#ffffff08",
-    "foreground": "#b7e4c7",
-    "descriptionForeground": "#53655c",
-    "list.highlightForeground": "#40916c",
+    "editorLineNumber.foreground": "#8DA4A0",
+    "editorLineNumber.activeForeground": "#83B4DC",
+    "editorGutter.background": "#0D191B",
+    "sideBar.background": "#192B2D",
+    "foreground": "#DCE5DF",
+    "descriptionForeground": "#8DA4A0",
+    "list.highlightForeground": "#83B4DC",
     "dropdown.background": "#ffffff10",
     "list.hoverBackground": "#ffffff18",
-    "panel.border": "#53655c",
-    "focusBorder": "#40916c",
-    "editorGroupHeader.tabsBackground": "#08100e",
-    "tab.activeBackground": "#ffffff08",
-    "tab.inactiveBackground": "#08100e",
-    "panel.background": "#ffffff05",
-    "titleBar.activeBackground": "#08100e",
-    "statusBar.background": "#08100e",
-    "terminal.background": "#08100e",
-    "terminal.foreground": "#b7e4c7",
-    "terminal.ansiBlack": "#08100e",
-    "terminal.ansiRed": "#ff5555",
-    "terminal.ansiGreen": "#74c69d",
-    "terminal.ansiYellow": "#40916c",
-    "terminal.ansiBlue": "#2d6a4f",
-    "terminal.ansiMagenta": "#b7e4c7",
-    "terminal.ansiCyan": "#40916c",
-    "terminal.ansiWhite": "#b7e4c7",
-    "activityBar.background": "#ffffff08",
-    "sideBarTitle.foreground": "#b7e4c7",
-    "editorCursor.foreground": "#b7e4c7",
+    "panel.border": "#192B2D",
+    "focusBorder": "#83B4DC",
+    "editorGroupHeader.tabsBackground": "#0D191B",
+    "tab.activeBackground": "#192B2D",
+    "tab.inactiveBackground": "#0D191B",
+    "panel.background": "#192B2D",
+    "titleBar.activeBackground": "#0D191B",
+    "statusBar.background": "#192B2D",
+    "terminal.background": "#0D191B",
+    "terminal.foreground": "#DCE5DF",
+    "terminal.ansiBlack": "#0D191B",
+    "terminal.ansiRed": "#F0847A",
+    "terminal.ansiGreen": "#A2CA8F",
+    "terminal.ansiYellow": "#E4CE91",
+    "terminal.ansiBlue": "#85B8E6",
+    "terminal.ansiMagenta": "#C0A8CE",
+    "terminal.ansiCyan": "#93CDD0",
+    "terminal.ansiWhite": "#DCE5DF",
+    "activityBar.background": "#192B2D",
+    "sideBarTitle.foreground": "#DCE5DF",
+    "editorCursor.foreground": "#DCE5DF",
     "selection.background": "#264f78"
   },
   "tokenColors": [
@@ -45,7 +45,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#2d6a4f",
+        "foreground": "#83B4DC",
         "fontStyle": "bold"
       }
     },
@@ -56,7 +56,7 @@
         "string.template"
       ],
       "settings": {
-        "foreground": "#74c69d"
+        "foreground": "#8FC392"
       }
     },
     {
@@ -65,7 +65,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#53655c",
+        "foreground": "#8DA4A0",
         "fontStyle": "italic"
       }
     },
@@ -76,7 +76,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#b7e4c7"
+        "foreground": "#C1D6C8"
       }
     },
     {
@@ -86,7 +86,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#40916c"
+        "foreground": "#8FC392"
       }
     },
     {
@@ -94,7 +94,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#40916c"
+        "foreground": "#A8B9C3"
       }
     },
     {
@@ -102,7 +102,7 @@
         "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#40916c"
+        "foreground": "#A8B9C3"
       }
     },
     {
@@ -110,7 +110,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#b7e4c7"
+        "foreground": "#DCE5DF"
       }
     },
     {
@@ -119,7 +119,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#b7e4c7"
+        "foreground": "#DCE5DF"
       }
     },
     {
@@ -128,7 +128,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#b7e4c7"
+        "foreground": "#DCE5DF"
       }
     },
     {
@@ -137,7 +137,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#2d6a4f",
+        "foreground": "#A8B9C3",
         "fontStyle": "bold"
       }
     },
@@ -146,7 +146,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#53655c"
+        "foreground": "#8DA4A0"
       }
     },
     {
@@ -154,7 +154,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#40916c"
+        "foreground": "#83B4DC"
       }
     },
     {
@@ -162,7 +162,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#b7e4c7"
+        "foreground": "#8FC392"
       }
     },
     {
@@ -171,7 +171,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#40916c"
+        "foreground": "#C1D6C8"
       }
     },
     {
@@ -180,7 +180,7 @@
         "meta.embedded"
       ],
       "settings": {
-        "foreground": "#74c69d"
+        "foreground": "#8FC392"
       }
     },
     {
@@ -189,7 +189,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#40916c",
+        "foreground": "#83B4DC",
         "fontStyle": "underline"
       }
     },

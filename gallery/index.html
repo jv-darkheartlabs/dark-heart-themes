@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Explore Dark Heart Labs editor themes with source-color previews, searchable collections and downloadable Zed theme files.">
+    <title>Theme gallery | Dark Heart Labs</title>
+    <link rel="stylesheet" href="./gallery.css">
+    <script src="./gallery.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#gallery-main">Skip to theme gallery</a>
+    <header class="site-header">
+      <a class="brand" href="https://darkheartlabs.technology/"><span class="brand-mark" aria-hidden="true">✦</span><span>Dark Heart Labs<small>Color, atmosphere and a place to work.</small></span></a>
+      <nav aria-label="Elsewhere"><a href="https://darkheartlabs.technology/media/">Personal media</a><a href="https://github.com/jv-darkheartlabs/dark-heart-themes">Repository</a></nav>
+    </header>
+    <main id="gallery-main" class="gallery-shell">
+      <section class="intro" aria-labelledby="gallery-title">
+        <div><p class="eyebrow">Editor theme collection</p><h1 id="gallery-title">Find your working atmosphere.</h1><p class="lede">Cinematic shadows, Magic color identities and a little gothic violet. Choose a theme to explore its actual source colors.</p></div>
+        <p class="collection-stat"><strong id="total-themes">56</strong><span>themes · 3 families<br>Dark and light appearances</span></p>
+      </section>
+      <section class="filter-panel" aria-label="Find themes">
+        <div class="search-field"><label for="theme-search">Search themes</label><input id="theme-search" type="search" placeholder="Try TRON, Rakdos or Gothic…" maxlength="120" autocomplete="off" disabled></div>
+        <fieldset><legend>Collection</legend><div class="filter-options"><label><input type="radio" name="family" value="all" checked disabled><span>All themes</span></label><label><input type="radio" name="family" value="cyberpunk" disabled><span>Cyberpunk / Cinematic</span></label><label><input type="radio" name="family" value="mtg" disabled><span>Magic: The Gathering</span></label><label><input type="radio" name="family" value="anime-gothic" disabled><span>Anime Gothic</span></label></div></fieldset>
+        <fieldset><legend>Appearance</legend><div class="filter-options"><label><input type="radio" name="appearance" value="all" checked disabled><span>Any</span></label><label><input type="radio" name="appearance" value="dark" disabled><span>Dark</span></label><label><input type="radio" name="appearance" value="light" disabled><span>Light</span></label></div></fieldset>
+        <button id="clear-filters" class="button button-subtle" type="button" disabled>Clear filters</button>
+      </section>
+      <p id="gallery-status" class="result-status" role="status" aria-live="polite" aria-atomic="true">Loading theme colors…</p>
+      <noscript><p class="error-message">Enable JavaScript to switch themes. The <a href="https://github.com/jv-darkheartlabs/dark-heart-themes/tree/main/sources/zed">source theme collection</a> remains available on GitHub.</p></noscript>
+      <div id="gallery-workspace" class="workspace" hidden>
+        <section id="collection" class="collection" aria-labelledby="collection-heading">
+          <div class="section-label"><h2 id="collection-heading">The collection</h2><span id="match-count"></span></div>
+          <p class="section-hint">Select a card to open its preview.</p>
+          <div id="theme-cards" class="theme-cards" tabindex="0" role="region" aria-label="Matching theme cards"></div>
+          <p id="no-results" class="empty-state" hidden>No themes match those filters. Try another name or clear the filters.</p>
+        </section>
+        <section id="preview" class="preview" aria-labelledby="preview-name">
+          <div class="preview-toolbar"><div class="select-theme"><label for="theme-select">Preview a theme</label><select id="theme-select"></select></div><a class="browse-link" href="#collection">Browse cards ↓</a></div>
+          <div class="preview-title"><div><p id="preview-family" class="eyebrow"></p><h2 id="preview-name" tabindex="-1"></h2></div><span id="preview-appearance" class="appearance-badge"></span></div>
+          <p class="preview-description">An approximation using the theme’s source colors. Your editor’s rendering may vary.</p>
+          <div class="editor" id="editor-preview">
+            <div class="editor-titlebar"><span class="window-dots" aria-hidden="true"><i></i><i></i><i></i></span><span id="editor-theme-label"></span><span class="editor-context">Editor preview</span></div>
+            <div class="editor-body"><aside class="editor-explorer" aria-label="Illustrative project files"><p>EXPLORER</p><div class="folder">⌄ &nbsp; color-workshop</div><div id="editor-active-file" class="active-file">preview.ts</div><div>README.md</div><div>palette.json</div><div class="explorer-note">Sample code<br>No files are opened.</div></aside><div class="editor-code-area"><div class="editor-tabs"><span id="editor-file-tab">preview.ts</span></div><pre class="code-scroll" tabindex="0" aria-label="Sample code in the selected theme"><code id="code-preview"></code></pre></div></div>
+            <div class="editor-statusbar"><span id="editor-status-name"></span><span id="editor-language-label">TypeScript · UTF-8</span></div>
+          </div>
+          <fieldset class="sample-controls"><legend>Sample code</legend><div class="filter-options"><label><input type="radio" name="language" value="typescript" checked><span>TypeScript</span></label><label><input type="radio" name="language" value="python"><span>Python</span></label></div></fieldset>
+          <div class="section-label palette-heading"><h3>Source palette</h3><span>Labels and hex values stay visible</span></div><dl id="palette" class="palette"></dl>
+          <div class="source-actions"><button id="download-theme" class="button button-primary" type="button">Download Zed JSON</button><a id="source-link" class="button button-subtle" href="https://github.com/jv-darkheartlabs/dark-heart-themes/tree/main/sources/zed">View source ↗</a></div>
+          <p id="download-status" class="download-status" role="status" aria-live="polite"></p>
+          <p class="download-note">The download is the original Zed theme document. Previewing or downloading does not install or change a theme.</p>
+        </section>
+      </div>
+    </main>
+    <footer class="site-footer"><span>Dark Heart Labs · Editor themes</span><p>Theme JSON is available under the repository’s MIT license. This gallery uses color data only.</p><a href="https://darkheartlabs.technology/media/">Back to Personal media ↗</a></footer>
+  </body>
+</html>
